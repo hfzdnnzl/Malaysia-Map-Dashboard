@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Malaysia Map</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" type="text/css" href="malaysia.css">
+
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  
+</head>
+<body>
+  <div id="loading-overlay">
+    <span style="color: white; font-size: 24px;">Loading...</span>
+  </div>
+
+  <div id="top-panel">
+    <div id="title-container">
+      <h2>Hello World!</h2>
+    </div>
+    
+    <div id="dropdown-container" style="top: 10px;">
+      <select id="state-select">
+      </select>
+    </div>
+
+    <div id="dropdown-container" style="top: 40px;">
+      <select id="district-select">
+      </select>
+    </div>
+
+    <div id="dropdown-container" style="top: 40px;">
+      <select id="subdistrict-select">
+      </select>
+    </div>    
+  </div>
+
+  <div id="map"></div>
+
+  <script src="malaysia.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1731 @@
+OBJECTID,kod_negeri,kod_daerah,kod_mukim,MUKIM,DAERAH,NEGERI
+1,1,101,10101,Bagan,Batu Pahat,Johor
+10,1,101,10110,Simpang Kanan,Batu Pahat,Johor
+100,1,108,10810,Sermin,Segamat,Johor
+1000,6,606,60607,Pekan,Pekan,Pahang
+1001,6,606,60608,Penyor,Pekan,Pahang
+1002,6,606,60609,Pulau Manis,Pekan,Pahang
+1003,6,606,60610,Pulau Rusa,Pekan,Pahang
+1004,6,606,60611,Temai,Pekan,Pahang
+1005,6,606,60640,Bandar Pekan,Pekan,Pahang
+1006,6,606,60670,Pekan Kuala Pahang,Pekan,Pahang
+1007,6,606,60671,Pekan Nenasi,Pekan,Pahang
+1008,6,607,60701,Batu Talam,Raub,Pahang
+1009,6,607,60702,Dong,Raub,Pahang
+101,1,108,10811,Sungai Segamat,Segamat,Johor
+1010,6,607,60703,Gali,Raub,Pahang
+1011,6,607,60704,Hulu Dong,Raub,Pahang
+1012,6,607,60705,Sega,Raub,Pahang
+1013,6,607,60706,Semantan Hulu,Raub,Pahang
+1014,6,607,60707,Teras,Raub,Pahang
+1015,6,607,60740,Bandar Raub,Raub,Pahang
+1016,6,607,60741,Bandar Teras,Raub,Pahang
+1017,6,607,60770,Pekan Ceruh,Raub,Pahang
+1018,6,607,60771,Pekan Dong,Raub,Pahang
+1019,6,607,60772,Pekan Teranum,Raub,Pahang
+102,1,108,10840,Bandar Batu Anam,Segamat,Johor
+1020,6,608,60801,Bangau,Temerloh,Pahang
+1021,6,608,60802,Jenderak,Temerloh,Pahang
+1022,6,608,60803,Kerdau,Temerloh,Pahang
+1023,6,608,60804,Lebak,Temerloh,Pahang
+1024,6,608,60805,Lipat Kajang,Temerloh,Pahang
+1025,6,608,60806,Mentakab,Temerloh,Pahang
+1026,6,608,60807,Perak,Temerloh,Pahang
+1027,6,608,60808,Sanggang,Temerloh,Pahang
+1028,6,608,60809,Semantan,Temerloh,Pahang
+1029,6,608,60810,Songsang,Temerloh,Pahang
+103,1,108,10841,Bandar Bekok,Segamat,Johor
+1030,6,608,60840,Bandar Mentakab,Temerloh,Pahang
+1031,6,608,60841,Bandar Temerloh,Temerloh,Pahang
+1032,6,608,60871,Pekan Kerdau,Temerloh,Pahang
+1033,6,608,60872,Pekan Kuala Kerau,Temerloh,Pahang
+1034,6,608,60873,Pekan Lancang,Temerloh,Pahang
+1035,6,609,60901,Endau,Rompin,Pahang
+1036,6,609,60902,Keratong,Rompin,Pahang
+1037,6,609,60903,Pontian,Rompin,Pahang
+1038,6,609,60904,Rompin,Rompin,Pahang
+1039,6,609,60905,Tioman,Rompin,Pahang
+104,1,108,10842,Bandar Buloh Kasap,Segamat,Johor
+1040,6,609,60906,Bebar,Rompin,Pahang
+1041,6,609,60940,Bandar Baharu Rompin,Rompin,Pahang
+1042,6,609,60941,Bandar Rompin 1,Rompin,Pahang
+1043,6,609,60942,Bandar Rompin II,Rompin,Pahang
+1044,6,609,60943,Bandar Rompin III,Rompin,Pahang
+1045,6,609,60944,Bandar Rompin IV,Rompin,Pahang
+1046,6,609,60945,Bandar Pontian,Rompin,Pahang
+1047,6,609,60946,Bandar Endau,Rompin,Pahang
+1048,6,609,60947,Bandar Muadzam Shah 1,Rompin,Pahang
+1049,6,609,60948,Bandar Muadzam Shah II,Rompin,Pahang
+105,1,108,10843,Bandar Jementah,Segamat,Johor
+1050,6,609,60949,Bandar Tioman,Rompin,Pahang
+1051,6,609,60970,Pekan Kuala Rompin,Rompin,Pahang
+1052,6,609,60971,Pekan Tioman,Rompin,Pahang
+1053,6,610,61001,Bukit Segumpal,Maran,Pahang
+1054,6,610,61002,Chenor,Maran,Pahang
+1055,6,610,61003,Kertau,Maran,Pahang
+1056,6,610,61004,Luit,Maran,Pahang
+1057,6,610,61040,Bandar Maran,Maran,Pahang
+1058,6,610,61070,Pekan Chenor,Maran,Pahang
+1059,6,610,61072,Pekan Sri Jaya,Maran,Pahang
+106,1,108,10844,Bandar Labis,Segamat,Johor
+1060,6,611,61111,Bera,Bera,Pahang
+1061,6,611,61112,Teriang,Bera,Pahang
+1062,6,611,61142,Bandar Teriang,Bera,Pahang
+1063,6,611,61170,Pekan Durian Tawar,Bera,Pahang
+1064,6,611,61174,Pekan Mengkarak,Bera,Pahang
+1065,6,611,61175,Pekan Mengkuang,Bera,Pahang
+1066,7,701,70101,Mukim 1,Seberang Perai Tengah,Pulau Pinang
+1067,7,701,70102,Mukim 2,Seberang Perai Tengah,Pulau Pinang
+1068,7,701,70103,Mukim 3,Seberang Perai Tengah,Pulau Pinang
+1069,7,701,70104,Mukim 4,Seberang Perai Tengah,Pulau Pinang
+107,1,108,10845,Bandar Segamat,Segamat,Johor
+1070,7,701,70105,Mukim 5,Seberang Perai Tengah,Pulau Pinang
+1071,7,701,70106,Mukim 6,Seberang Perai Tengah,Pulau Pinang
+1072,7,701,70107,Mukim 7,Seberang Perai Tengah,Pulau Pinang
+1073,7,701,70108,Mukim 8,Seberang Perai Tengah,Pulau Pinang
+1074,7,701,70109,Mukim 9,Seberang Perai Tengah,Pulau Pinang
+1075,7,701,70110,Mukim 10,Seberang Perai Tengah,Pulau Pinang
+1076,7,701,70111,Mukim 11,Seberang Perai Tengah,Pulau Pinang
+1077,7,701,70112,Mukim 12,Seberang Perai Tengah,Pulau Pinang
+1078,7,701,70113,Mukim 13,Seberang Perai Tengah,Pulau Pinang
+1079,7,701,70114,Mukim 14,Seberang Perai Tengah,Pulau Pinang
+108,1,108,10870,Pekan Gemas Bahru,Segamat,Johor
+1080,7,701,70115,Mukim 15,Seberang Perai Tengah,Pulau Pinang
+1081,7,701,70116,Mukim 16,Seberang Perai Tengah,Pulau Pinang
+1082,7,701,70117,Mukim 17,Seberang Perai Tengah,Pulau Pinang
+1083,7,701,70118,Mukim 18,Seberang Perai Tengah,Pulau Pinang
+1084,7,701,70119,Mukim 19,Seberang Perai Tengah,Pulau Pinang
+1085,7,701,70120,Mukim 20,Seberang Perai Tengah,Pulau Pinang
+1086,7,701,70121,Mukim 21,Seberang Perai Tengah,Pulau Pinang
+1087,7,701,70140,Bandar Bukit Mertajam,Seberang Perai Tengah,Pulau Pinang
+1088,7,701,70141,Bandar Prai,Seberang Perai Tengah,Pulau Pinang
+1089,7,702,70201,Mukim 1,Seberang Perai Utara,Pulau Pinang
+109,1,121,12101,Kulai,Kulai,Johor
+1090,7,702,70202,Mukim 2,Seberang Perai Utara,Pulau Pinang
+1091,7,702,70203,Mukim 3,Seberang Perai Utara,Pulau Pinang
+1092,7,702,70204,Mukim 4,Seberang Perai Utara,Pulau Pinang
+1093,7,702,70205,Mukim 5,Seberang Perai Utara,Pulau Pinang
+1094,7,702,70206,Mukim 6,Seberang Perai Utara,Pulau Pinang
+1095,7,702,70207,Mukim 7,Seberang Perai Utara,Pulau Pinang
+1096,7,702,70208,Mukim 8,Seberang Perai Utara,Pulau Pinang
+1097,7,702,70209,Mukim 9,Seberang Perai Utara,Pulau Pinang
+1098,7,702,70210,Mukim 10,Seberang Perai Utara,Pulau Pinang
+1099,7,702,70211,Mukim 11,Seberang Perai Utara,Pulau Pinang
+11,1,101,10111,Simpang Kiri,Batu Pahat,Johor
+110,1,121,12102,Senai,Kulai,Johor
+1100,7,702,70212,Mukim 12,Seberang Perai Utara,Pulau Pinang
+1101,7,702,70213,Mukim 13,Seberang Perai Utara,Pulau Pinang
+1102,7,702,70214,Mukim 14,Seberang Perai Utara,Pulau Pinang
+1103,7,702,70216,Mukim 16,Seberang Perai Utara,Pulau Pinang
+1104,7,702,70240,Bandar Butterworth,Seberang Perai Utara,Pulau Pinang
+1105,7,702,70241,Bandar Kepala Batas,Seberang Perai Utara,Pulau Pinang
+1106,7,703,70301,Mukim 1,Seberang Perai Selatan,Pulau Pinang
+1107,7,703,70302,Mukim 2,Seberang Perai Selatan,Pulau Pinang
+1108,7,703,70303,Mukim 3,Seberang Perai Selatan,Pulau Pinang
+1109,7,703,70304,Mukim 4,Seberang Perai Selatan,Pulau Pinang
+111,1,121,12103,Sedenak,Kulai,Johor
+1110,7,703,70305,Mukim 5,Seberang Perai Selatan,Pulau Pinang
+1111,7,703,70306,Mukim 6,Seberang Perai Selatan,Pulau Pinang
+1112,7,703,70307,Mukim 7,Seberang Perai Selatan,Pulau Pinang
+1113,7,703,70308,Mukim 8,Seberang Perai Selatan,Pulau Pinang
+1114,7,703,70309,Mukim 9,Seberang Perai Selatan,Pulau Pinang
+1115,7,703,70310,Mukim 10,Seberang Perai Selatan,Pulau Pinang
+1116,7,703,70311,Mukim 11,Seberang Perai Selatan,Pulau Pinang
+1117,7,703,70312,Mukim 12,Seberang Perai Selatan,Pulau Pinang
+1118,7,703,70313,Mukim 13,Seberang Perai Selatan,Pulau Pinang
+1119,7,703,70314,Mukim 14,Seberang Perai Selatan,Pulau Pinang
+112,1,121,12104,Bukit Batu,Kulai,Johor
+1120,7,703,70315,Mukim 15,Seberang Perai Selatan,Pulau Pinang
+1121,7,703,70316,Mukim 16,Seberang Perai Selatan,Pulau Pinang
+1122,7,703,70340,Bandar Nibong Tebal,Seberang Perai Selatan,Pulau Pinang
+1123,7,703,70341,Bandar Sungei Bakap,Seberang Perai Selatan,Pulau Pinang
+1124,7,704,70401,Mukim 13,Timor Laut,Pulau Pinang
+1125,7,704,70402,Mukim 14,Timor Laut,Pulau Pinang
+1126,7,704,70403,Mukim 15,Timor Laut,Pulau Pinang
+1127,7,704,70404,Mukim 16,Timor Laut,Pulau Pinang
+1128,7,704,70405,Mukim 17,Timor Laut,Pulau Pinang
+1129,7,704,70406,Mukim 18,Timor Laut,Pulau Pinang
+113,1,121,12140,Bandar Kulai,Kulai,Johor
+1130,7,704,70440,Bandar Ayer Itam,Timor Laut,Pulau Pinang
+1131,7,704,70441,Bandar Batu Feringgi,Timor Laut,Pulau Pinang
+1132,7,704,70442,Bandar Bukit Bendera,Timor Laut,Pulau Pinang
+1133,7,704,70443,Bandar Glugor,Timor Laut,Pulau Pinang
+1134,7,704,70444,Bandar George Town,Timor Laut,Pulau Pinang
+1135,7,704,70445,Bandar Jelutong,Timor Laut,Pulau Pinang
+1136,7,704,70446,Bandar Tanjong Bungah,Timor Laut,Pulau Pinang
+1137,7,704,70447,Bandar Tanjong Tokong,Timor Laut,Pulau Pinang
+1138,7,704,70448,Bandar Tanjong Pinang,Timor Laut,Pulau Pinang
+1139,7,705,70501,Mukim 1,Barat Daya,Pulau Pinang
+114,1,122,12201,Tangkak,Tangkak,Johor
+1140,7,705,70502,Mukim 2,Barat Daya,Pulau Pinang
+1141,7,705,70503,Mukim 3,Barat Daya,Pulau Pinang
+1142,7,705,70504,Mukim 4,Barat Daya,Pulau Pinang
+1143,7,705,70505,Mukim 5,Barat Daya,Pulau Pinang
+1144,7,705,70506,Mukim 6,Barat Daya,Pulau Pinang
+1145,7,705,70507,Mukim 7,Barat Daya,Pulau Pinang
+1146,7,705,70508,Mukim 8,Barat Daya,Pulau Pinang
+1147,7,705,70509,Mukim 9,Barat Daya,Pulau Pinang
+1148,7,705,70510,Mukim 10,Barat Daya,Pulau Pinang
+1149,7,705,70511,Mukim 11,Barat Daya,Pulau Pinang
+115,1,122,12202,Bukit Serampang,Tangkak,Johor
+1150,7,705,70512,Mukim 12,Barat Daya,Pulau Pinang
+1151,7,705,70513,Mukim A,Barat Daya,Pulau Pinang
+1152,7,705,70514,Mukim B,Barat Daya,Pulau Pinang
+1153,7,705,70515,Mukim C,Barat Daya,Pulau Pinang
+1154,7,705,70516,Mukim D,Barat Daya,Pulau Pinang
+1155,7,705,70517,Mukim E,Barat Daya,Pulau Pinang
+1156,7,705,70518,Mukim F,Barat Daya,Pulau Pinang
+1157,7,705,70519,Mukim G,Barat Daya,Pulau Pinang
+1158,7,705,70520,Mukim H,Barat Daya,Pulau Pinang
+1159,7,705,70521,Mukim I,Barat Daya,Pulau Pinang
+116,1,122,12203,Grisek,Tangkak,Johor
+1160,7,705,70522,Mukim J,Barat Daya,Pulau Pinang
+1161,7,705,70540,Bandar Balik Pulau,Barat Daya,Pulau Pinang
+1162,7,705,70541,Bandar Bayan Lepas,Barat Daya,Pulau Pinang
+1163,8,801,80101,Batang Padang,Batang Padang,Perak
+1164,8,801,80102,Bidor,Batang Padang,Perak
+1165,8,801,80103,Chenderiang,Batang Padang,Perak
+1166,8,801,80107,Sungkai,Batang Padang,Perak
+1167,8,801,80140,Bandar Bidor,Batang Padang,Perak
+1168,8,801,80141,Bandar Chenderiang,Batang Padang,Perak
+1169,8,801,80142,Bandar Sungkai,Batang Padang,Perak
+117,1,122,12204,Serom,Tangkak,Johor
+1170,8,801,80144,Bandar Tapah,Batang Padang,Perak
+1171,8,801,80145,Bandar Temoh,Batang Padang,Perak
+1172,8,801,80170,Pekan Ayer Kuning,Batang Padang,Perak
+1173,8,801,80171,Pekan Banir,Batang Padang,Perak
+1174,8,801,80173,Pekan Bikam,Batang Padang,Perak
+1175,8,801,80175,Pekan Sungai Lesong,Batang Padang,Perak
+1176,8,801,80176,Pekan Tapah Road,Batang Padang,Perak
+1177,8,801,80177,Pekan Temoh Station,Batang Padang,Perak
+1178,8,802,80201,Beruas,Manjung,Perak
+1179,8,802,80202,Lekir,Manjung,Perak
+118,1,122,12205,Kundang,Tangkak,Johor
+1180,8,802,80203,Lumut,Manjung,Perak
+1181,8,802,80204,Pengkalan Baharu,Manjung,Perak
+1182,8,802,80205,Sitiawan,Manjung,Perak
+1183,8,802,80240,Bandar Lumut,Manjung,Perak
+1184,8,802,80270,Pekan Ayer Tawar,Manjung,Perak
+1185,8,802,80271,Pekan Beruas,Manjung,Perak
+1186,8,802,80272,Pekan Changkat Keruing,Manjung,Perak
+1187,8,802,80273,Pekan Damar Laut,Manjung,Perak
+1188,8,802,80274,Pekan Kampong Baharu,Manjung,Perak
+1189,8,802,80275,Pekan Kampong Koh,Manjung,Perak
+119,1,122,12206,Kesang,Tangkak,Johor
+1190,8,802,80276,Pekan Kampong Sitiawan,Manjung,Perak
+1191,8,802,80277,Pekan Pangkor,Manjung,Perak
+1192,8,802,80278,Pekan Pantai Remis,Manjung,Perak
+1193,8,802,80279,Pekan Pasir Bogak,Manjung,Perak
+1194,8,802,80280,Pekan Pekan Gurney,Manjung,Perak
+1195,8,802,80281,Pekan Pengkalan Baharu,Manjung,Perak
+1196,8,802,80282,Pekan Segari,Manjung,Perak
+1197,8,802,80283,Pekan Sitiawan,Manjung,Perak
+1198,8,802,80284,Pekan Sungai Pinang Kechil,Manjung,Perak
+1199,8,803,80301,Belanja,Kinta,Perak
+12,1,101,10112,Sungai Kluang,Batu Pahat,Johor
+120,1,122,12240,Bandar Bukit Kangkar,Tangkak,Johor
+1200,8,803,80302,Hulu Kinta,Kinta,Perak
+1201,8,803,80304,Sungai Raya,Kinta,Perak
+1202,8,803,80305,Sungai Terap,Kinta,Perak
+1203,8,803,80306,Tanjong Tualang,Kinta,Perak
+1204,8,803,80340,Bandar Batu Gajah,Kinta,Perak
+1205,8,803,80341,Bandar Chemor,Kinta,Perak
+1206,8,803,80343,Bandar Ipoh (N),Kinta,Perak
+1207,8,803,80344,Bandar Ipoh (S),Kinta,Perak
+1208,8,803,80345,Bandar Jelapang,Kinta,Perak
+1209,8,803,80347,Bandar Lahat,Kinta,Perak
+121,1,122,12241,Bandar Parit Bunga,Tangkak,Johor
+1210,8,803,80348,Bandar Menglembu,Kinta,Perak
+1211,8,803,80349,Bandar Papan,Kinta,Perak
+1212,8,803,80351,Bandar Pusing,Kinta,Perak
+1213,8,803,80352,Bandar Seputeh,Kinta,Perak
+1214,8,803,80353,Bandar Sungai Raya,Kinta,Perak
+1215,8,803,80354,Bandar Tambun,Kinta,Perak
+1216,8,803,80355,Bandar Tanjong Rambutan,Kinta,Perak
+1217,8,803,80356,Bandar Teronoh,Kinta,Perak
+1218,8,803,80370,Pekan Kanthan,Kinta,Perak
+1219,8,803,80373,Pekan Simpang Pulai,Kinta,Perak
+122,1,122,12242,Bandar Serom,Tangkak,Johor
+1220,8,803,80374,Pekan Tanjong Tualang,Kinta,Perak
+1221,8,804,80401,Bagan Serai,Kerian,Perak
+1222,8,804,80402,Bagan Tiang,Kerian,Perak
+1223,8,804,80403,Beriah,Kerian,Perak
+1224,8,804,80404,Gunong Semanggol,Kerian,Perak
+1225,8,804,80405,Kuala Kurau,Kerian,Perak
+1226,8,804,80406,Parit Buntar,Kerian,Perak
+1227,8,804,80407,Selinsing,Kerian,Perak
+1228,8,804,80408,Tanjong Piandang,Kerian,Perak
+1229,8,804,80440,Bandar Bagan Serai,Kerian,Perak
+123,1,122,12243,Bandar Sungai Mati,Tangkak,Johor
+1230,8,804,80441,Bandar Kuala Kurau,Kerian,Perak
+1231,8,804,80442,Bandar Parit Buntar,Kerian,Perak
+1232,8,804,80470,Pekan Bukit Merah,Kerian,Perak
+1233,8,804,80471,Pekan Jalan Baru,Kerian,Perak
+1234,8,804,80472,Pekan Simpang Empat,Kerian,Perak
+1235,8,804,80473,Pekan Simpang Lima,Kerian,Perak
+1236,8,804,80474,Pekan Sungai Gedong,Kerian,Perak
+1237,8,804,80475,Pekan Tanjong  Piandang,Kerian,Perak
+1238,8,805,80501,Chegar Galah,Kuala Kangsar,Perak
+1239,8,805,80502,Kampong Buaya,Kuala Kangsar,Perak
+124,1,122,12244,Bandar Tangkak,Tangkak,Johor
+1240,8,805,80503,Kota Lama Kanan,Kuala Kangsar,Perak
+1241,8,805,80504,Kota Lama Kiri,Kuala Kangsar,Perak
+1242,8,805,80505,Lubok Merbau,Kuala Kangsar,Perak
+1243,8,805,80506,Pulau Kamiri,Kuala Kangsar,Perak
+1244,8,805,80507,Sayung,Kuala Kangsar,Perak
+1245,8,805,80508,Senggang,Kuala Kangsar,Perak
+1246,8,805,80509,Sungai Siput,Kuala Kangsar,Perak
+1247,8,805,80540,Bandar Kuala Kangsar,Kuala Kangsar,Perak
+1248,8,805,80541,Bandar Sungai Siput,Kuala Kangsar,Perak
+1249,8,805,80570,Pekan Gunong Pondok,Kuala Kangsar,Perak
+125,1,122,12270,Pekan Grisek,Tangkak,Johor
+1250,8,805,80571,Pekan Jerlun,Kuala Kangsar,Perak
+1251,8,805,80572,Pekan Karai,Kuala Kangsar,Perak
+1252,8,805,80573,Pekan Kati,Kuala Kangsar,Perak
+1253,8,805,80574,Pekan Lubok Merbau,Kuala Kangsar,Perak
+1254,8,805,80575,Pekan Manong,Kuala Kangsar,Perak
+1255,8,805,80576,Pekan Padang Rengas,Kuala Kangsar,Perak
+1256,8,805,80577,Pekan Salak,Kuala Kangsar,Perak
+1257,8,806,80601,Asam Kumbang,Larut & Matang,Perak
+1258,8,806,80602,Batu Kurau,Larut & Matang,Perak
+1259,8,806,80603,Bukit Gantang,Larut & Matang,Perak
+126,2,201,20101,Mukim Alor Malai,Kota Setar,Kedah
+1260,8,806,80604,Jebong,Larut & Matang,Perak
+1261,8,806,80605,Kamunting,Larut & Matang,Perak
+1262,8,806,80606,Pengkalan Aor,Larut & Matang,Perak
+1263,8,806,80607,Simpang,Larut & Matang,Perak
+1264,8,806,80608,Sungai Limau,Larut & Matang,Perak
+1265,8,806,80609,Sungai Tinggi,Larut & Matang,Perak
+1266,8,806,80610,Terung,Larut & Matang,Perak
+1267,8,806,80611,Tupai,Larut & Matang,Perak
+1268,8,806,80640,Bandar Kamunting,Larut & Matang,Perak
+1269,8,806,80641,Bandar Kuala Sepetang,Larut & Matang,Perak
+127,2,201,20103,Mukim Anak Bukit,Kota Setar,Kedah
+1270,8,806,80642,Bandar Matang,Larut & Matang,Perak
+1271,8,806,80643,Bandar Taiping,Larut & Matang,Perak
+1272,8,806,80670,Pekan Batu Kurau,Larut & Matang,Perak
+1273,8,806,80671,Pekan Changkat Jering,Larut & Matang,Perak
+1274,8,806,80672,Pekan  Pondok Tanjong,Larut & Matang,Perak
+1275,8,806,80673,Pekan Simpang,Larut & Matang,Perak
+1276,8,806,80674,Pekan Terung,Larut & Matang,Perak
+1277,8,807,80702,Changkat Jong,Hilir Perak,Perak
+1278,8,807,80703,Durian Sebatang,Hilir Perak,Perak
+1279,8,807,80705,Labu Kubong,Hilir Perak,Perak
+128,2,201,20107,Mukim Derga,Kota Setar,Kedah
+1280,8,807,80707,Sungai Durian,Hilir Perak,Perak
+1281,8,807,80708,Sungai Manik,Hilir Perak,Perak
+1282,8,807,80740,Bandar Teluk Intan,Hilir Perak,Perak
+1283,8,807,80771,Pekan Batak Rabit,Hilir Perak,Perak
+1284,8,807,80773,Pekan Chikus,Hilir Perak,Perak
+1285,8,807,80774,Pekan Degong,Hilir Perak,Perak
+1286,8,807,80778,Pekan Langkap,Hilir Perak,Perak
+1287,8,808,80801,Belukar Semang,Hulu Perak,Perak
+1288,8,808,80802,Belum,Hulu Perak,Perak
+1289,8,808,80803,Durian Pipit,Hulu Perak,Perak
+129,2,201,20109,Mukim Gunong,Kota Setar,Kedah
+1290,8,808,80804,Gerik,Hulu Perak,Perak
+1291,8,808,80805,Kenering,Hulu Perak,Perak
+1292,8,808,80806,Pengkalan Hulu,Hulu Perak,Perak
+1293,8,808,80807,Kerunai,Hulu Perak,Perak
+1294,8,808,80808,Lenggong,Hulu Perak,Perak
+1295,8,808,80809,Temelong,Hulu Perak,Perak
+1296,8,808,80810,Temengor,Hulu Perak,Perak
+1297,8,808,80840,Bandar Gerik,Hulu Perak,Perak
+1298,8,808,80841,Bandar Kelian Intan,Hulu Perak,Perak
+1299,8,808,80842,Bandar Pengkalan Hulu,Hulu Perak,Perak
+13,1,101,10113,Sungai Punggor,Batu Pahat,Johor
+130,2,201,20112,Mukim Kangkong,Kota Setar,Kedah
+1300,8,808,80843,Bandar Lawin,Hulu Perak,Perak
+1301,8,808,80844,Bandar Lenggong,Hulu Perak,Perak
+1302,8,809,80901,Hulu Ijok,Selama,Perak
+1303,8,809,80902,Hulu Selama,Selama,Perak
+1304,8,809,80903,Selama,Selama,Perak
+1305,8,809,80940,Bandar Selama,Selama,Perak
+1306,8,809,80970,Pekan Rantau Panjang,Selama,Perak
+1307,8,809,80971,Pekan Sungai Bayur,Selama,Perak
+1308,8,810,81001,Bandar,Perak Tengah,Perak
+1309,8,810,81002,Belanja,Perak Tengah,Perak
+131,2,201,20115,Mukim Kubang Rotan,Kota Setar,Kedah
+1310,8,810,81003,Bota,Perak Tengah,Perak
+1311,8,810,81004,Jaya Baru,Perak Tengah,Perak
+1312,8,810,81005,Kampong Gajah,Perak Tengah,Perak
+1313,8,810,81006,Kota Setia,Perak Tengah,Perak
+1314,8,810,81007,Lambor Kanan,Perak Tengah,Perak
+1315,8,810,81008,Lambor Kiri,Perak Tengah,Perak
+1316,8,810,81009,Layang Layang,Perak Tengah,Perak
+1317,8,810,81010,Pasir Panjang Hulu,Perak Tengah,Perak
+1318,8,810,81011,Pasir Salak,Perak Tengah,Perak
+1319,8,810,81012,Pulau Tiga,Perak Tengah,Perak
+132,2,201,20116,Mukim Langgar,Kota Setar,Kedah
+1320,8,810,81040,Bandar Seri Iskandar,Perak Tengah,Perak
+1321,8,810,81070,Pekan Bota Kanan,Perak Tengah,Perak
+1322,8,810,81071,Pekan Kampong Buloh Akar,Perak Tengah,Perak
+1323,8,810,81072,Pekan Kota Setia,Perak Tengah,Perak
+1324,8,810,81073,Pekan Parit,Perak Tengah,Perak
+1325,8,810,81074,Pekan Tanjong Belanja,Perak Tengah,Perak
+1326,8,811,81101,Kampar,Kampar,Perak
+1327,8,811,81102,Teja,Kampar,Perak
+1328,8,811,81140,Bandar Gopeng,Kampar,Perak
+1329,8,811,81141,Bandar Kampar,Kampar,Perak
+133,2,201,20117,Mukim Lengkuas,Kota Setar,Kedah
+1330,8,811,81170,Pekan Kota Baharu,Kampar,Perak
+1331,8,811,81171,Pekan Malim Nawar,Kampar,Perak
+1332,8,812,81201,Hulu Bernam Barat,Muallim,Perak
+1333,8,812,81202,Hulu Bernam Timor,Muallim,Perak
+1334,8,812,81203,Slim,Muallim,Perak
+1335,8,812,81240,Bandar Tanjong Malim,Muallim,Perak
+1336,8,812,81270,Pekan Bantang,Muallim,Perak
+1337,8,812,81271,Pekan Slim,Muallim,Perak
+1338,8,812,81272,Pekan Terolak,Muallim,Perak
+1339,8,813,81301,Bagan Datoh,Bagan Datoh,Perak
+134,2,201,20118,Mukim Lepai,Kota Setar,Kedah
+1340,8,813,81302,Hutan Melintang,Bagan Datoh,Perak
+1341,8,813,81303,Rungkup,Bagan Datoh,Perak
+1342,8,813,81304,Teluk Baru,Bagan Datoh,Perak
+1343,8,813,81370,Pekan Bagan Datoh,Bagan Datoh,Perak
+1344,8,813,81371,Pekan Batu Dua Puloh,Bagan Datoh,Perak
+1345,8,813,81372,Pekan Hutan Melintang,Bagan Datoh,Perak
+1346,8,813,81373,Pekan Jendarata,Bagan Datoh,Perak
+1347,8,813,81374,Pekan Kampong Sungai Haji Mohamed,Bagan Datoh,Perak
+1348,8,813,81375,Pekan Selekoh,Bagan Datoh,Perak
+1349,8,813,81376,Pekan Simpang Empat,Bagan Datoh,Perak
+135,2,201,20120,Mukim Limbong,Kota Setar,Kedah
+1350,8,813,81377,Pekan Simpang Tiga,Bagan Datoh,Perak
+1351,8,813,81378,Pekan Sungai Sumun,Bagan Datoh,Perak
+1352,9,900,90001,Mukim Abi,Tiada Daerah,Perlis
+1353,9,900,90002,Mukim Arau,Tiada Daerah,Perlis
+1354,9,900,90003,Mukim Beseri,Tiada Daerah,Perlis
+1355,9,900,90004,Mukim Chuping,Tiada Daerah,Perlis
+1356,9,900,90005,Mukim Utan Aji,Tiada Daerah,Perlis
+1357,9,900,90006,Mukim Jejawi,Tiada Daerah,Perlis
+1358,9,900,90007,Mukim Kayang,Tiada Daerah,Perlis
+1359,9,900,90008,Mukim Kechor,Tiada Daerah,Perlis
+136,2,201,20122,Mukim Padang Hang,Kota Setar,Kedah
+1360,9,900,90009,Mukim Kuala Perlis,Tiada Daerah,Perlis
+1361,9,900,90010,Mukim Kurong Anai,Tiada Daerah,Perlis
+1362,9,900,90011,Mukim Kurong Batang,Tiada Daerah,Perlis
+1363,9,900,90012,Mukim Ngulang,Tiada Daerah,Perlis
+1364,9,900,90013,Mukim Oran,Tiada Daerah,Perlis
+1365,9,900,90014,Mukim Padang Pauh,Tiada Daerah,Perlis
+1366,9,900,90015,Mukim Padang Siding,Tiada Daerah,Perlis
+1367,9,900,90016,Mukim Paya,Tiada Daerah,Perlis
+1368,9,900,90017,Mukim Sanglang,Tiada Daerah,Perlis
+1369,9,900,90018,Mukim Sena,Tiada Daerah,Perlis
+137,2,201,20123,Mukim Padang Lalang,Kota Setar,Kedah
+1370,9,900,90019,Mukim Seriab,Tiada Daerah,Perlis
+1371,9,900,90020,Mukim Sungai Adam,Tiada Daerah,Perlis
+1372,9,900,90021,Mukim Titi Tinggi,Tiada Daerah,Perlis
+1373,9,900,90022,Mukim Wang Bintong,Tiada Daerah,Perlis
+1374,9,900,90040,Bandar Arau,Tiada Daerah,Perlis
+1375,9,900,90041,Bandar Kangar,Tiada Daerah,Perlis
+1376,9,900,90070,Pekan Kuala Perlis,Tiada Daerah,Perlis
+1377,9,900,90072,Pekan Kaki Bukit,Tiada Daerah,Perlis
+1378,10,1001,100101,Kapar,Klang,Selangor
+1379,10,1001,100102,Klang,Klang,Selangor
+138,2,201,20124,Mukim Pengkalan Kundor,Kota Setar,Kedah
+1380,10,1001,100140,Bandar Klang,Klang,Selangor
+1381,10,1001,100141,Bandar Port Swettenham,Klang,Selangor
+1382,10,1001,100142,Bandar Sultan Sulaiman,Klang,Selangor
+1383,10,1001,100143,Bandar Shah Alam Klang,Klang,Selangor
+1384,10,1001,100170,Pekan Bukit Kemuning,Klang,Selangor
+1385,10,1001,100171,Pekan Kapar,Klang,Selangor
+1386,10,1001,100172,Pekan Meru,Klang,Selangor
+1387,10,1001,100173,Pekan Telok Menegun,Klang,Selangor
+1388,10,1001,100174,Pekan Batu Empat,Klang,Selangor
+1389,10,1001,100175,Pekan Pandamaran,Klang,Selangor
+139,2,201,20126,Mukim Sala Kechik,Kota Setar,Kedah
+1390,10,1002,100201,Bandar,Kuala Langat,Selangor
+1391,10,1002,100202,Batu,Kuala Langat,Selangor
+1392,10,1002,100203,Jugra,Kuala Langat,Selangor
+1393,10,1002,100204,Kelanang,Kuala Langat,Selangor
+1394,10,1002,100205,Morib,Kuala Langat,Selangor
+1395,10,1002,100206,Tanjong Duabelas,Kuala Langat,Selangor
+1396,10,1002,100207,Telok Panglima Garang,Kuala Langat,Selangor
+1397,10,1002,100240,Bandar Banting,Kuala Langat,Selangor
+1398,10,1002,100241,Bandar Jenjarom,Kuala Langat,Selangor
+1399,10,1002,100242,Bandar Sijangkang,Kuala Langat,Selangor
+14,1,101,10114,Tanjong Sembrong,Batu Pahat,Johor
+140,2,201,20127,Mukim Sungai Baharu,Kota Setar,Kedah
+1400,10,1002,100243,Bandar Tanjong Sepat,Kuala Langat,Selangor
+1401,10,1002,100244,Bandar Telok Panglima Garang,Kuala Langat,Selangor
+1402,10,1002,100270,Pekan Batu,Kuala Langat,Selangor
+1403,10,1002,100271,Pekan Bukit Changgang,Kuala Langat,Selangor
+1404,10,1002,100272,Pekan Chodoi,Kuala Langat,Selangor
+1405,10,1002,100273,Pekan Jenjarom,Kuala Langat,Selangor
+1406,10,1002,100274,Pekan Kanchong,Kuala Langat,Selangor
+1407,10,1002,100275,Pekan Kanchong Darat,Kuala Langat,Selangor
+1408,10,1002,100276,Pekan Kelanang Batu Enam,Kuala Langat,Selangor
+1409,10,1002,100277,Pekan Morib,Kuala Langat,Selangor
+141,2,201,20128,Mukim Tajar,Kota Setar,Kedah
+1410,10,1002,100278,Pekan Permatang Pasir,Kuala Langat,Selangor
+1411,10,1002,100279,Pekan Sijangkang,Kuala Langat,Selangor
+1412,10,1002,100280,Pekan Simpang Morib,Kuala Langat,Selangor
+1413,10,1002,100281,Pekan Sungai Manggis,Kuala Langat,Selangor
+1414,10,1002,100282,Pekan Sungai Raba,Kuala Langat,Selangor
+1415,10,1002,100283,Pekan Tanjong Duabelas,Kuala Langat,Selangor
+1416,10,1002,100284,Pekan Telok Datok,Kuala Langat,Selangor
+1417,10,1002,100285,Pekan Telok,Kuala Langat,Selangor
+1418,10,1002,100286,Pekan Tongkah,Kuala Langat,Selangor
+1419,10,1004,100401,Api-Api,Kuala Selangor,Selangor
+142,2,201,20129,Mukim Tebengau,Kota Setar,Kedah
+1420,10,1004,100403,Ujong Permatang,Kuala Selangor,Selangor
+1421,10,1004,100404,Ulu Tinggi,Kuala Selangor,Selangor
+1422,10,1004,100405,Ijok,Kuala Selangor,Selangor
+1423,10,1004,100406,Jeram,Kuala Selangor,Selangor
+1424,10,1004,100407,Kuala Selangor,Kuala Selangor,Selangor
+1425,10,1004,100408,Pasangan,Kuala Selangor,Selangor
+1426,10,1004,100409,Tanjong Karang,Kuala Selangor,Selangor
+1427,10,1004,100410,Bestari Jaya,Kuala Selangor,Selangor
+1428,10,1004,100440,Bandar Kuala Selangor,Kuala Selangor,Selangor
+1429,10,1004,100441,Bandar Tanjong Karang,Kuala Selangor,Selangor
+143,2,201,20130,Mukim Telaga Mas,Kota Setar,Kedah
+1430,10,1004,100470,Pekan Asam Jawa,Kuala Selangor,Selangor
+1431,10,1004,100472,Pekan Bukit Rotan,Kuala Selangor,Selangor
+1432,10,1004,100473,Pekan Jeram,Kuala Selangor,Selangor
+1433,10,1004,100474,Pekan Kampong Kuantan,Kuala Selangor,Selangor
+1434,10,1004,100475,Pekan Kuala Sungai Buloh,Kuala Selangor,Selangor
+1435,10,1004,100476,Pekan Pasir Penambang,Kuala Selangor,Selangor
+1436,10,1004,100477,Pekan Simpang Tiga,Kuala Selangor,Selangor
+1437,10,1004,100478,Pekan Tanjong Karang,Kuala Selangor,Selangor
+1438,10,1004,100479,Pekan Bukit Belimbing,Kuala Selangor,Selangor
+1439,10,1004,100480,Pekan Bukit Talang,Kuala Selangor,Selangor
+144,2,201,20133,Mukim Titi Gajah,Kota Setar,Kedah
+1440,10,1004,100481,Pekan Kampong Baru Hulu Tiram Buruk,Kuala Selangor,Selangor
+1441,10,1004,100482,Pekan Parit Mahang,Kuala Selangor,Selangor
+1442,10,1004,100483,Pekan Simpang Tiga Ijok,Kuala Selangor,Selangor
+1443,10,1004,100484,Pekan Sungai Sembilang,Kuala Selangor,Selangor
+1444,10,1004,100485,Pekan Taman Pkns,Kuala Selangor,Selangor
+1445,10,1004,100486,Pekan Tambak Jawa,Kuala Selangor,Selangor
+1446,10,1004,100491,Pekan Bestari Jaya,Kuala Selangor,Selangor
+1447,10,1005,100501,Bagan Nakhoda Omar,Sabak Bernam,Selangor
+1448,10,1005,100502,Panchang Bedena,Sabak Bernam,Selangor
+1449,10,1005,100503,Pasir Panjang,Sabak Bernam,Selangor
+145,2,201,20140,Bandar Alor Setar,Kota Setar,Kedah
+1450,10,1005,100504,Sabak,Sabak Bernam,Selangor
+1451,10,1005,100505,Sungai Panjang,Sabak Bernam,Selangor
+1452,10,1005,100570,Pekan Bagan Terap,Sabak Bernam,Selangor
+1453,10,1005,100571,Pekan Parit Enam,Sabak Bernam,Selangor
+1454,10,1005,100572,Pekan Parit Sembilan,Sabak Bernam,Selangor
+1455,10,1005,100573,Pekan Sekinchan,Sabak Bernam,Selangor
+1456,10,1005,100574,Pekan Simpang Lima,Sabak Bernam,Selangor
+1457,10,1005,100575,Pekan Sabak,Sabak Bernam,Selangor
+1458,10,1005,100576,Pekan Sungai Air Tawar,Sabak Bernam,Selangor
+1459,10,1005,100577,Pekan Sungai Sepintas,Sabak Bernam,Selangor
+146,2,201,20141,Bandar Anak Bukit,Kota Setar,Kedah
+1460,10,1005,100578,Pekan Bagan Nakhoda Omar,Sabak Bernam,Selangor
+1461,10,1005,100579,Pekan Parit Baru,Sabak Bernam,Selangor
+1462,10,1005,100580,Pekan Pasir Panjang,Sabak Bernam,Selangor
+1463,10,1005,100581,Pekan Sekinchan Site A,Sabak Bernam,Selangor
+1464,10,1005,100582,Pekan Sungai Besar,Sabak Bernam,Selangor
+1465,10,1005,100583,Pekan Sungai Haji Dorani,Sabak Bernam,Selangor
+1466,10,1005,100584,Pekan Sungai Nibong,Sabak Bernam,Selangor
+1467,10,1006,100601,Beranang,Ulu Langat,Selangor
+1468,10,1006,100602,Cheras,Ulu Langat,Selangor
+1469,10,1006,100603,Ampang,Ulu Langat,Selangor
+147,2,201,20143,Bandar Kuala Kedah,Kota Setar,Kedah
+1470,10,1006,100604,Ulu Langat,Ulu Langat,Selangor
+1471,10,1006,100605,Ulu Semenyih,Ulu Langat,Selangor
+1472,10,1006,100606,Kajang,Ulu Langat,Selangor
+1473,10,1006,100607,Semenyih,Ulu Langat,Selangor
+1474,10,1006,100640,Bandar Cheras,Ulu Langat,Selangor
+1475,10,1006,100641,Bandar Ulu Langat,Ulu Langat,Selangor
+1476,10,1006,100642,Bandar Kajang,Ulu Langat,Selangor
+1477,10,1006,100643,Bandar Semenyih,Ulu Langat,Selangor
+1478,10,1006,100644,Bandar Ampang,Ulu Langat,Selangor
+1479,10,1006,100645,Bandar Country Height,Ulu Langat,Selangor
+148,2,201,20147,Bandar Alor Merah,Kota Setar,Kedah
+1480,10,1006,100646,Bandar Balakong,Ulu Langat,Selangor
+1481,10,1006,100647,Bandar Baru Bangi,Ulu Langat,Selangor
+1482,10,1006,100648,"Bandar Batu 9, Cheras",Ulu Langat,Selangor
+1483,10,1006,100649,"Bandar Batu 18, Semenyih",Ulu Langat,Selangor
+1484,10,1006,100650,"Bandar Batu 26, Beranang",Ulu Langat,Selangor
+1485,10,1006,100671,Pekan Beranang,Ulu Langat,Selangor
+1486,10,1006,100673,Pekan Kachau,Ulu Langat,Selangor
+1487,10,1006,100675,Pekan Tarun,Ulu Langat,Selangor
+1488,10,1006,100676,Pekan Bangi Lama,Ulu Langat,Selangor
+1489,10,1006,100677,Pekan Batu 18 Ulu Langat,Ulu Langat,Selangor
+149,2,201,20148,Bandar Bukit Pinang,Kota Setar,Kedah
+1490,10,1006,100678,"Pekan Batu 23, Sungai Lalang",Ulu Langat,Selangor
+1491,10,1006,100679,"Pekan Batu 26, Beranang",Ulu Langat,Selangor
+1492,10,1006,100680,Pekan Bukit Sungai Raya,Ulu Langat,Selangor
+1493,10,1006,100681,Pekan Cheras,Ulu Langat,Selangor
+1494,10,1006,100682,Pekan Desa Raya,Ulu Langat,Selangor
+1495,10,1006,100683,Pekan Dusun Tua Ulu Langat,Ulu Langat,Selangor
+1496,10,1006,100684,Pekan Kajang,Ulu Langat,Selangor
+1497,10,1006,100685,Pekan Kampong Pasir Batu 14 Semenyih,Ulu Langat,Selangor
+1498,10,1006,100686,Pekan Kampong Sungai Tangkas,Ulu Langat,Selangor
+1499,10,1006,100687,Pekan Rumah Murah Sungai Lui,Ulu Langat,Selangor
+15,1,101,10140,Bandar Ayer Hitam,Batu Pahat,Johor
+150,2,201,20149,Bandar Langgar,Kota Setar,Kedah
+1500,10,1006,100688,Pekan  Semenyih,Ulu Langat,Selangor
+1501,10,1006,100689,Pekan Simpang Balak,Ulu Langat,Selangor
+1502,10,1006,100690,Pekan Sri Nanding,Ulu Langat,Selangor
+1503,10,1006,100691,Pekan Sungai Kembong Beranang,Ulu Langat,Selangor
+1504,10,1006,100692,Pekan Sungai Lui,Ulu Langat,Selangor
+1505,10,1006,100693,Pekan Sungai Makau,Ulu Langat,Selangor
+1506,10,1007,100701,Batang Kali,Ulu Selangor,Selangor
+1507,10,1007,100702,Buloh Telor,Ulu Selangor,Selangor
+1508,10,1007,100703,Ampang Pechah,Ulu Selangor,Selangor
+1509,10,1007,100704,Ulu Bernam,Ulu Selangor,Selangor
+151,2,201,20150,Bandar Simpang Empat,Kota Setar,Kedah
+1510,10,1007,100705,Ulu Yam,Ulu Selangor,Selangor
+1511,10,1007,100706,Kalumpang,Ulu Selangor,Selangor
+1512,10,1007,100707,Kerling,Ulu Selangor,Selangor
+1513,10,1007,100708,Kuala Kalumpang,Ulu Selangor,Selangor
+1514,10,1007,100709,Peretak,Ulu Selangor,Selangor
+1515,10,1007,100710,Rasa,Ulu Selangor,Selangor
+1516,10,1007,100711,Serendah,Ulu Selangor,Selangor
+1517,10,1007,100712,Sungai Gumut,Ulu Selangor,Selangor
+1518,10,1007,100713,Sungai Tinggi,Ulu Selangor,Selangor
+1519,10,1007,100740,Bandar Ulu Yam,Ulu Selangor,Selangor
+152,2,201,20170,Pekan Alor Janggus,Kota Setar,Kedah
+1520,10,1007,100741,Bandar Ulu Yam Baharu,Ulu Selangor,Selangor
+1521,10,1007,100742,Bandar Kalumpang,Ulu Selangor,Selangor
+1522,10,1007,100743,Bandar Kuala Kubu Baharu,Ulu Selangor,Selangor
+1523,10,1007,100744,Bandar Rasa,Ulu Selangor,Selangor
+1524,10,1007,100745,Bandar Serendah,Ulu Selangor,Selangor
+1525,10,1007,100746,Bandar Batang Kali,Ulu Selangor,Selangor
+1526,10,1007,100747,Bandar Ulu Bernam I,Ulu Selangor,Selangor
+1527,10,1007,100748,Bandar Ulu Bernam II,Ulu Selangor,Selangor
+1528,10,1007,100749,Bandar Sungai Chik,Ulu Selangor,Selangor
+1529,10,1007,100770,Pekan Kerling,Ulu Selangor,Selangor
+153,2,201,20172,Pekan Kota Sarang Semut,Kota Setar,Kedah
+1530,10,1007,100771,Pekan Peretak,Ulu Selangor,Selangor
+1531,10,1007,100772,Pekan Simpang Sungai Choh,Ulu Selangor,Selangor
+1532,10,1008,100801,Bukit Raja,Petaling,Selangor
+1533,10,1008,100802,Damansara,Petaling,Selangor
+1534,10,1008,100803,Petaling,Petaling,Selangor
+1535,10,1008,100804,Sungai Buloh,Petaling,Selangor
+1536,10,1008,100840,Bandar Petaling Jaya,Petaling,Selangor
+1537,10,1008,100841,Bandar Shah Alam,Petaling,Selangor
+1538,10,1008,100842,Bandar Damansara,Petaling,Selangor
+1539,10,1008,100843,Bandar Glenmarie,Petaling,Selangor
+154,2,201,20175,Pekan Gunong,Kota Setar,Kedah
+1540,10,1008,100844,Bandar Petaling Jaya Selatan,Petaling,Selangor
+1541,10,1008,100845,Bandar Saujana,Petaling,Selangor
+1542,10,1008,100846,Bandar Sri Damansara,Petaling,Selangor
+1543,10,1008,100847,Bandar Subang Jaya,Petaling,Selangor
+1544,10,1008,100848,Bandar Sunway,Petaling,Selangor
+1545,10,1008,100870,Pekan Batu Tiga,Petaling,Selangor
+1546,10,1008,100871,Pekan Merbau Sempak,Petaling,Selangor
+1547,10,1008,100872,Pekan Puchong,Petaling,Selangor
+1548,10,1008,100874,Pekan Serdang,Petaling,Selangor
+1549,10,1008,100875,Pekan Sungai Buloh,Petaling,Selangor
+155,2,202,20201,Mukim Ah,Kubang Pasu,Kedah
+1550,10,1008,100876,Pekan Sungai Penchala,Petaling,Selangor
+1551,10,1008,100877,Pekan Cempaka,Petaling,Selangor
+1552,10,1008,100878,Pekan Country Height,Petaling,Selangor
+1553,10,1008,100879,Pekan Desa Puchong,Petaling,Selangor
+1554,10,1008,100880,Pekan Hicom,Petaling,Selangor
+1555,10,1008,100881,Pekan Kayu Ara,Petaling,Selangor
+1556,10,1008,100882,Pekan Kinrara,Petaling,Selangor
+1557,10,1008,100884,Pekan Baru Hicom,Petaling,Selangor
+1558,10,1008,100885,Pekan Baru Subang,Petaling,Selangor
+1559,10,1008,100886,Pekan Baru Sungai Besi,Petaling,Selangor
+156,2,202,20202,Mukim Binjal,Kubang Pasu,Kedah
+1560,10,1008,100887,Pekan Baru Sungai Buloh,Petaling,Selangor
+1561,10,1008,100888,Pekan Penaga,Petaling,Selangor
+1562,10,1008,100889,Pekan Puchong Jaya,Petaling,Selangor
+1563,10,1008,100890,Pekan Puchong Perdana,Petaling,Selangor
+1564,10,1008,100891,Pekan Subang,Petaling,Selangor
+1565,10,1008,100892,Pekan Subang Jaya,Petaling,Selangor
+1566,10,1009,100901,Batu,Gombak,Selangor
+1567,10,1009,100902,Ulu Kelang,Gombak,Selangor
+1568,10,1009,100903,Rawang,Gombak,Selangor
+1569,10,1009,100904,Setapak,Gombak,Selangor
+157,2,202,20203,Mukim Bukit Tinggi,Kubang Pasu,Kedah
+1570,10,1009,100940,Bandar Batu Arang,Gombak,Selangor
+1571,10,1009,100941,Bandar Kuang,Gombak,Selangor
+1572,10,1009,100942,Bandar Rawang,Gombak,Selangor
+1573,10,1009,100943,Bandar Gombak Setia,Gombak,Selangor
+1574,10,1009,100944,Bandar Ulu Kelang,Gombak,Selangor
+1575,10,1009,100945,Bandar Kepong,Gombak,Selangor
+1576,10,1009,100946,Bandar Kundang,Gombak,Selangor
+1577,10,1009,100947,Bandar Selayang,Gombak,Selangor
+1578,10,1009,100948,Bandar Sungai Buloh,Gombak,Selangor
+1579,10,1009,100949,Bandar Sungai Pusu,Gombak,Selangor
+158,2,202,20204,Mukim Gelong,Kubang Pasu,Kedah
+1580,10,1009,100972,Pekan Batu 20,Gombak,Selangor
+1581,10,1009,100973,Pekan Kuang,Gombak,Selangor
+1582,10,1009,100974,Pekan Mimaland,Gombak,Selangor
+1583,10,1009,100975,Pekan Pengkalan Kundang,Gombak,Selangor
+1584,10,1009,100976,Pekan Sungai Buloh,Gombak,Selangor
+1585,10,1009,100977,Pekan Templer,Gombak,Selangor
+1586,10,1010,101001,Dengkil,Sepang,Selangor
+1587,10,1010,101002,Labu,Sepang,Selangor
+1588,10,1010,101003,Sepang,Sepang,Selangor
+1589,10,1010,101040,Bandar Sepang,Sepang,Selangor
+159,2,202,20205,Mukim Husba,Kubang Pasu,Kedah
+1590,10,1010,101041,Bandar Baru Bangi,Sepang,Selangor
+1591,10,1010,101042,Bandar Baru Salak Tinggi,Sepang,Selangor
+1592,10,1010,101043,Bandar Lapangan Terbang Antarabangsa Sepang,Sepang,Selangor
+1593,10,1010,101044,Bandar Sungai Merab,Sepang,Selangor
+1594,10,1010,101070,Pekan Dengkil,Sepang,Selangor
+1595,10,1010,101071,Pekan Salak,Sepang,Selangor
+1596,10,1010,101072,Pekan Sungai Pelek,Sepang,Selangor
+1597,10,1010,101074,Pekan Batu 1 Sepang,Sepang,Selangor
+1598,10,1010,101075,Pekan Bukit Bisa,Sepang,Selangor
+1599,10,1010,101076,Pekan Bukit Prang,Sepang,Selangor
+16,1,101,10141,Bandar Bandar Penggaram,Batu Pahat,Johor
+160,2,202,20206,Mukim Jeram,Kubang Pasu,Kedah
+1600,10,1010,101077,Pekan Dato' Bakar Baginda,Sepang,Selangor
+1601,10,1010,101078,Pekan Baru Salak Tinggi,Sepang,Selangor
+1602,10,1010,101079,Pekan Sungai Merab,Sepang,Selangor
+1603,10,1010,101080,Pekan Tanjung Mas,Sepang,Selangor
+1604,10,1010,101081,Pekan Tanjung Mas 1,Sepang,Selangor
+1605,11,1101,110101,Mukim Bukit Kenak,Besut,Terengganu
+1606,11,1101,110102,Mukim Bukit Peteri,Besut,Terengganu
+1607,11,1101,110105,Mukim Hulu Besut,Besut,Terengganu
+1608,11,1101,110107,Mukim Jabi,Besut,Terengganu
+1609,11,1101,110108,Mukim Kampung Raja,Besut,Terengganu
+161,2,202,20207,Mukim Jerlun,Kubang Pasu,Kedah
+1610,11,1101,110109,Mukim Keluang,Besut,Terengganu
+1611,11,1101,110110,Mukim Kerandang,Besut,Terengganu
+1612,11,1101,110111,Mukim Kuala Besut,Besut,Terengganu
+1613,11,1101,110112,Mukim Kubang Bemban,Besut,Terengganu
+1614,11,1101,110113,Mukim Lubuk Kawah,Besut,Terengganu
+1615,11,1101,110115,Mukim Pasir Akar,Besut,Terengganu
+1616,11,1101,110116,Mukim Pelagat,Besut,Terengganu
+1617,11,1101,110117,Mukim Pengkalan Nangka,Besut,Terengganu
+1618,11,1101,110118,Mukim Pulau Perhentian,Besut,Terengganu
+1619,11,1101,110120,Mukim Tembila,Besut,Terengganu
+162,2,202,20208,Mukim Jitra,Kubang Pasu,Kedah
+1620,11,1101,110121,Mukim Tenang,Besut,Terengganu
+1621,11,1101,110170,Pekan Jertih,Besut,Terengganu
+1622,11,1101,110171,Pekan Kampung Raja,Besut,Terengganu
+1623,11,1101,110172,Pekan Kuala Besut,Besut,Terengganu
+1624,11,1102,110201,Mukim Abang,Dungun,Terengganu
+1625,11,1102,110202,Mukim Besul,Dungun,Terengganu
+1626,11,1102,110203,Mukim Hulu Paka,Dungun,Terengganu
+1627,11,1102,110204,Mukim Jengai,Dungun,Terengganu
+1628,11,1102,110205,Mukim Jerangau,Dungun,Terengganu
+1629,11,1102,110206,Mukim Kuala Dungun,Dungun,Terengganu
+163,2,202,20209,Mukim Kepelu,Kubang Pasu,Kedah
+1630,11,1102,110207,Mukim Kuala Paka,Dungun,Terengganu
+1631,11,1102,110208,Mukim Kumpal,Dungun,Terengganu
+1632,11,1102,110209,Mukim Pasir Raja,Dungun,Terengganu
+1633,11,1102,110210,Mukim Rasau,Dungun,Terengganu
+1634,11,1102,110211,Mukim Sura,Dungun,Terengganu
+1635,11,1102,110240,Bandar Dungun,Dungun,Terengganu
+1636,11,1102,110270,Pekan Kuala Paka,Dungun,Terengganu
+1637,11,1103,110301,Mukim Bandi,Kemaman,Terengganu
+1638,11,1103,110302,Mukim Banggol,Kemaman,Terengganu
+1639,11,1103,110303,Mukim Binjai,Kemaman,Terengganu
+164,2,202,20210,Mukim Kubang Pasu,Kubang Pasu,Kedah
+1640,11,1103,110304,Mukim Cukai,Kemaman,Terengganu
+1641,11,1103,110305,Mukim Hulu Cukai,Kemaman,Terengganu
+1642,11,1103,110306,Mukim Hulu Jabur,Kemaman,Terengganu
+1643,11,1103,110307,Mukim Kemasik,Kemaman,Terengganu
+1644,11,1103,110308,Mukim Kertih,Kemaman,Terengganu
+1645,11,1103,110309,Mukim Kijal,Kemaman,Terengganu
+1646,11,1103,110310,Mukim Pasir Semut,Kemaman,Terengganu
+1647,11,1103,110311,Mukim Tebak,Kemaman,Terengganu
+1648,11,1103,110312,Mukim Teluk Kalung,Kemaman,Terengganu
+1649,11,1103,110340,Bandar Cukai,Kemaman,Terengganu
+165,2,202,20211,Mukim Malau,Kubang Pasu,Kedah
+1650,11,1103,110370,Pekan Air Jernih,Kemaman,Terengganu
+1651,11,1103,110371,Pekan Air Putih,Kemaman,Terengganu
+1652,11,1103,110372,Pekan Kemasik,Kemaman,Terengganu
+1653,11,1103,110373,Pekan Kijal,Kemaman,Terengganu
+1654,11,1104,110402,Mukim Atas Tol,Kuala Terengganu,Terengganu
+1655,11,1104,110403,Mukim Batu Buruk,Kuala Terengganu,Terengganu
+1656,11,1104,110405,Mukim Belara,Kuala Terengganu,Terengganu
+1657,11,1104,110406,Mukim Bukit Besar,Kuala Terengganu,Terengganu
+1658,11,1104,110408,Mukim Cabang Tiga,Kuala Terengganu,Terengganu
+1659,11,1104,110409,Mukim Cenering,Kuala Terengganu,Terengganu
+166,2,202,20212,Mukim Naga,Kubang Pasu,Kedah
+1660,11,1104,110410,Mukim Gelugur Kedai,Kuala Terengganu,Terengganu
+1661,11,1104,110411,Mukim Gelugur Raja,Kuala Terengganu,Terengganu
+1662,11,1104,110413,Mukim Kepung,Kuala Terengganu,Terengganu
+1663,11,1104,110414,Mukim Kuala Ibai,Kuala Terengganu,Terengganu
+1664,11,1104,110416,Mukim Kubang Parit,Kuala Terengganu,Terengganu
+1665,11,1104,110417,Mukim Losong,Kuala Terengganu,Terengganu
+1666,11,1104,110418,Mukim Manir,Kuala Terengganu,Terengganu
+1667,11,1104,110420,Mukim Paluh,Kuala Terengganu,Terengganu
+1668,11,1104,110421,Mukim Pengadang Buluh,Kuala Terengganu,Terengganu
+1669,11,1104,110422,Mukim Pulau-Pulau,Kuala Terengganu,Terengganu
+167,2,202,20213,Mukim Padang Perahu,Kubang Pasu,Kedah
+1670,11,1104,110424,Mukim Rengas,Kuala Terengganu,Terengganu
+1671,11,1104,110425,Mukim Serada,Kuala Terengganu,Terengganu
+1672,11,1104,110426,Mukim Tok Jamal,Kuala Terengganu,Terengganu
+1673,11,1104,110440,Bandar K.Terengganu,Kuala Terengganu,Terengganu
+1674,11,1104,110471,Pekan Cabang Tiga,Kuala Terengganu,Terengganu
+1675,11,1105,110501,Mukim Hulu Berang,Hulu Terengganu,Terengganu
+1676,11,1105,110502,Mukim Hulu Telemung,Hulu Terengganu,Terengganu
+1677,11,1105,110503,Mukim Hulu Terengganu,Hulu Terengganu,Terengganu
+1678,11,1105,110504,Mukim Jenagur,Hulu Terengganu,Terengganu
+1679,11,1105,110505,Mukim Kuala Berang,Hulu Terengganu,Terengganu
+168,2,202,20214,Mukim Pelubang,Kubang Pasu,Kedah
+1680,11,1105,110506,Mukim Kuala Telemung,Hulu Terengganu,Terengganu
+1681,11,1105,110507,Mukim Penghulu Diman,Hulu Terengganu,Terengganu
+1682,11,1105,110508,Mukim Tanggul,Hulu Terengganu,Terengganu
+1683,11,1105,110509,Mukim Tersat,Hulu Terengganu,Terengganu
+1684,11,1105,110570,Pekan Kuala Berang,Hulu Terengganu,Terengganu
+1685,11,1106,110601,Mukim Jerung,Marang,Terengganu
+1686,11,1106,110602,Mukim Mercang,Marang,Terengganu
+1687,11,1106,110603,Mukim Pulau Kerengga,Marang,Terengganu
+1688,11,1106,110604,Mukim Rusila,Marang,Terengganu
+1689,11,1106,110605,Mukim Alur Limbat,Marang,Terengganu
+169,2,202,20215,Mukim Pering,Kubang Pasu,Kedah
+1690,11,1106,110606,Mukim Bukit Payung,Marang,Terengganu
+1691,11,1106,110670,Pekan Marang,Marang,Terengganu
+1692,11,1106,110671,Pekan Bukit Payung,Marang,Terengganu
+1693,11,1107,110701,Mukim Caluk,Setiu,Terengganu
+1694,11,1107,110702,Mukim Guntung,Setiu,Terengganu
+1695,11,1107,110703,Mukim Hulu Nerus,Setiu,Terengganu
+1696,11,1107,110704,Mukim Hulu Setiu,Setiu,Terengganu
+1697,11,1107,110705,Mukim Merang,Setiu,Terengganu
+1698,11,1107,110706,Mukim Pantai,Setiu,Terengganu
+1699,11,1107,110707,Mukim Tasik,Setiu,Terengganu
+17,1,101,10142,Bandar Rengit,Batu Pahat,Johor
+170,2,202,20216,Mukim Putat,Kubang Pasu,Kedah
+1700,11,1108,110801,Mukim Batu Rakit,Kuala Nerus,Terengganu
+1701,11,1108,110802,Mukim Kuala Nerus,Kuala Nerus,Terengganu
+1702,11,1108,110803,Mukim Pakoh,Kuala Nerus,Terengganu
+1703,11,1108,110804,Mukim Pulau Redang,Kuala Nerus,Terengganu
+1704,14,1400,140001,Mukim Ampang,Kuala Lumpur,W.P. Kuala Lumpur
+1705,14,1400,140002,Mukim Batu,Kuala Lumpur,W.P. Kuala Lumpur
+1706,14,1400,140003,Mukim Cheras,Kuala Lumpur,W.P. Kuala Lumpur
+1707,14,1400,140004,Mukim Hulu Kelang,Kuala Lumpur,W.P. Kuala Lumpur
+1708,14,1400,140005,Mukim Kuala Lumpur,Kuala Lumpur,W.P. Kuala Lumpur
+1709,14,1400,140006,Mukim Petaling,Kuala Lumpur,W.P. Kuala Lumpur
+171,2,202,20217,Mukim Sanglang,Kubang Pasu,Kedah
+1710,14,1400,140007,Mukim Setapak,Kuala Lumpur,W.P. Kuala Lumpur
+1711,14,1400,140044,Bandar Kuala Lumpur,Kuala Lumpur,W.P. Kuala Lumpur
+1712,14,1400,140055,Bandar Petaling Jaya,Kuala Lumpur,W.P. Kuala Lumpur
+1713,14,1400,140066,Bandar Baharu Sungai Besi,Kuala Lumpur,W.P. Kuala Lumpur
+1714,14,1400,140070,Pekan Batu,Kuala Lumpur,W.P. Kuala Lumpur
+1715,14,1400,140071,Pekan Batu Caves,Kuala Lumpur,W.P. Kuala Lumpur
+1716,14,1400,140072,Pekan Kepong,Kuala Lumpur,W.P. Kuala Lumpur
+1717,14,1400,140073,Pekan Kuala Pauh,Kuala Lumpur,W.P. Kuala Lumpur
+1718,14,1400,140074,Pekan Petaling,Kuala Lumpur,W.P. Kuala Lumpur
+1719,14,1400,140075,Pekan Salak South,Kuala Lumpur,W.P. Kuala Lumpur
+172,2,202,20218,Mukim Sungai Laka,Kubang Pasu,Kedah
+1720,14,1400,140076,Pekan Sg. Penchala,Kuala Lumpur,W.P. Kuala Lumpur
+1721,15,1500,150000,Tiada Mukim,Tiada Daerah,W.P. Labuan
+1722,16,1601,160140,Bandar Putrajaya,Putrajaya,W.P. Putrajaya
+1723,1,105,10509,Pulau Sibu,Mersing,Johor
+1724,1,105,10510,Pulau Tinggi,Mersing,Johor
+1725,1,105,10506,Pulau Aur,Mersing,Johor
+1726,1,105,10507,Pulau Babi,Mersing,Johor
+1727,1,105,10508,Pulau Pemanggil,Mersing,Johor
+1728,1,105,10512,Tenggaroh,Mersing,Johor
+1729,1,105,10501,Jemaluang,Mersing,Johor
+173,2,202,20219,Mukim Temin,Kubang Pasu,Kedah
+1730,1,105,10505,Penyabong,Mersing,Johor
+174,2,202,20220,Mukim Tunjang,Kubang Pasu,Kedah
+175,2,202,20221,Mukim Wang Tepus,Kubang Pasu,Kedah
+176,2,202,20240,Bandar Changlun,Kubang Pasu,Kedah
+177,2,202,20241,Bandar Jitra,Kubang Pasu,Kedah
+178,2,202,20242,Bandar Kodiang,Kubang Pasu,Kedah
+179,2,202,20243,Bandar Tunjang,Kubang Pasu,Kedah
+18,1,101,10143,Bandar Senggarang,Batu Pahat,Johor
+180,2,202,20244,Bandar Darulaman,Kubang Pasu,Kedah
+181,2,202,20245,Bandar Padang Sera,Kubang Pasu,Kedah
+182,2,202,20246,Bandar Kepala Batas,Kubang Pasu,Kedah
+183,2,202,20247,Bandar Bukit Kayu Hitam,Kubang Pasu,Kedah
+184,2,202,20270,Pekan Ayer Hitam,Kubang Pasu,Kedah
+185,2,202,20276,Pekan Kuala Sanglang,Kubang Pasu,Kedah
+186,2,202,20281,Pekan Sanglang,Kubang Pasu,Kedah
+187,2,202,20289,Pekan Kerpan,Kubang Pasu,Kedah
+188,2,202,20290,Pekan Sintok,Kubang Pasu,Kedah
+189,2,202,20291,Pekan Napoh,Kubang Pasu,Kedah
+19,1,101,10144,Bandar Yong Peng,Batu Pahat,Johor
+190,2,202,20292,Pekan Sungai Korok,Kubang Pasu,Kedah
+191,2,203,20301,Mukim Batang Tunggang Kanan,Padang Terap,Kedah
+192,2,203,20302,Mukim Batang Tunggang Kiri,Padang Terap,Kedah
+193,2,203,20303,Mukim Belimbing Kanan,Padang Terap,Kedah
+194,2,203,20304,Mukim Belimbing Kiri,Padang Terap,Kedah
+195,2,203,20305,Mukim Kurong Hitam,Padang Terap,Kedah
+196,2,203,20306,Mukim Padang Temak,Padang Terap,Kedah
+197,2,203,20307,Mukim Padang Terap Kanan,Padang Terap,Kedah
+198,2,203,20308,Mukim Padang Terap Kiri,Padang Terap,Kedah
+199,2,203,20309,Mukim Pedu,Padang Terap,Kedah
+2,1,101,10102,Chaah Bahru,Batu Pahat,Johor
+20,1,102,10201,Jelutong,Johor Bahru,Johor
+200,2,203,20310,Mukim Tekai,Padang Terap,Kedah
+201,2,203,20311,Mukim Tolak,Padang Terap,Kedah
+202,2,203,20340,Bandar Kuala Nerang,Padang Terap,Kedah
+203,2,203,20370,Pekan Naka,Padang Terap,Kedah
+204,2,203,20371,Pekan Durian Burung,Padang Terap,Kedah
+205,2,203,20372,Pekan Lubok Merbau,Padang Terap,Kedah
+206,2,203,20373,Pekan Bukit Tembaga,Padang Terap,Kedah
+207,2,203,20374,Pekan Padang Sanai,Padang Terap,Kedah
+208,2,203,20375,Pekan Kampung Tanjung,Padang Terap,Kedah
+209,2,204,20401,Mukim Ayer Hangat,Langkawi,Kedah
+21,1,102,10202,Plentong,Johor Bahru,Johor
+210,2,204,20402,Mukim Bohor,Langkawi,Kedah
+211,2,204,20403,Mukim Kedawang,Langkawi,Kedah
+212,2,204,20404,Mukim Kuah,Langkawi,Kedah
+213,2,204,20405,Mukim Padang Mat Sirat,Langkawi,Kedah
+214,2,204,20406,Mukim Ulu Melaka,Langkawi,Kedah
+215,2,204,20440,Bandar Kuah,Langkawi,Kedah
+216,2,204,20441,Bandar Padang Mat Sirat,Langkawi,Kedah
+217,2,204,20442,Bandar Padang Lalang,Langkawi,Kedah
+218,2,204,20472,Pekan Telok Datai,Langkawi,Kedah
+219,2,205,20501,Mukim Bujang,Kuala Muda,Kedah
+22,1,102,10203,Pulai,Johor Bahru,Johor
+220,2,205,20502,Mukim Bukit Meriam,Kuala Muda,Kedah
+221,2,205,20503,Mukim Gurun,Kuala Muda,Kedah
+222,2,205,20504,Mukim Haji Kudong,Kuala Muda,Kedah
+223,2,205,20505,Mukim Kota,Kuala Muda,Kedah
+224,2,205,20506,Mukim Kuala,Kuala Muda,Kedah
+225,2,205,20507,Mukim Merbok,Kuala Muda,Kedah
+226,2,205,20508,Mukim Pekula,Kuala Muda,Kedah
+227,2,205,20509,Mukim Pinang Tunggal,Kuala Muda,Kedah
+228,2,205,20510,Mukim Rantau Panjang,Kuala Muda,Kedah
+229,2,205,20511,Mukim Semeling,Kuala Muda,Kedah
+23,1,102,10206,Sungai Tiram,Johor Bahru,Johor
+230,2,205,20512,Mukim Sidam Kiri,Kuala Muda,Kedah
+231,2,205,20513,Mukim Simpor,Kuala Muda,Kedah
+232,2,205,20514,Mukim Sungai Pasir,Kuala Muda,Kedah
+233,2,205,20515,Mukim Sungai Petani,Kuala Muda,Kedah
+234,2,205,20516,Mukim Teloi Kiri,Kuala Muda,Kedah
+235,2,205,20540,Bandar Bedong,Kuala Muda,Kedah
+236,2,205,20541,Bandar Gurun,Kuala Muda,Kedah
+237,2,205,20545,Bandar Sungai Lalang,Kuala Muda,Kedah
+238,2,205,20546,Bandar Sungai Petani,Kuala Muda,Kedah
+239,2,205,20548,Bandar Tikam Batu,Kuala Muda,Kedah
+24,1,102,10207,Tanjung Kupang,Johor Bahru,Johor
+240,2,205,20549,Bandar Merbok,Kuala Muda,Kedah
+241,2,205,20550,Bandar Semeling,Kuala Muda,Kedah
+242,2,205,20551,Bandar Bandar Aman Jaya,Kuala Muda,Kedah
+243,2,205,20570,Pekan Bukit Selambau,Kuala Muda,Kedah
+244,2,205,20571,Pekan Jeniang,Kuala Muda,Kedah
+245,2,205,20573,Pekan Kota Kuala Muda,Kuala Muda,Kedah
+246,2,205,20576,Pekan Tanjung Dawai,Kuala Muda,Kedah
+247,2,206,20601,Mukim Dulang,Yan,Kedah
+248,2,206,20602,Mukim Sala Besar,Yan,Kedah
+249,2,206,20603,Mukim Singkir,Yan,Kedah
+25,1,102,10208,Tebrau,Johor Bahru,Johor
+250,2,206,20604,Mukim Sungai Daun,Yan,Kedah
+251,2,206,20605,Mukim Yan,Yan,Kedah
+252,2,206,20640,Bandar Guar Cempedak,Yan,Kedah
+253,2,206,20641,Bandar Yan,Yan,Kedah
+254,2,206,20671,Pekan Simpang Tiga Sungai Limau,Yan,Kedah
+255,2,206,20672,Pekan Sungai Limau Dalam,Yan,Kedah
+256,2,206,20674,Pekan Teroi,Yan,Kedah
+257,2,206,20675,Pekan Singkir,Yan,Kedah
+258,2,207,20701,Mukim Jeneri,Sik,Kedah
+259,2,207,20702,Mukim Sik,Sik,Kedah
+26,1,102,10240,Bandar Johor Bahru,Johor Bahru,Johor
+260,2,207,20703,Mukim Sok,Sik,Kedah
+261,2,207,20740,Bandar Sik,Sik,Kedah
+262,2,207,20770,Pekan Batu Lima Sik,Sik,Kedah
+263,2,207,20773,Pekan Gulau,Sik,Kedah
+264,2,207,20774,Pekan Gajah Puteh,Sik,Kedah
+265,2,207,20775,Pekan Charok Padang,Sik,Kedah
+266,2,208,20801,Mukim Bakai,Baling,Kedah
+267,2,208,20802,Mukim Baling,Baling,Kedah
+268,2,208,20803,Mukim Bongor,Baling,Kedah
+269,2,208,20804,Mukim Kupang,Baling,Kedah
+27,1,102,10242,Bandar Tebrau,Johor Bahru,Johor
+270,2,208,20805,Mukim Pulai,Baling,Kedah
+271,2,208,20806,Mukim Siong,Baling,Kedah
+272,2,208,20807,Mukim Tawar,Baling,Kedah
+273,2,208,20808,Mukim Teloi Kanan,Baling,Kedah
+274,2,208,20840,Bandar Baling,Baling,Kedah
+275,2,208,20841,Bandar Kuala Ketil,Baling,Kedah
+276,2,208,20842,Bandar Kupang,Baling,Kedah
+277,2,208,20872,Pekan Kampung Baru Kejai,Baling,Kedah
+278,2,208,20874,Pekan Pulai,Baling,Kedah
+279,2,208,20875,Pekan Tawar,Baling,Kedah
+28,1,103,10301,Ulu Benut,Kluang,Johor
+280,2,208,20876,Pekan Kuala Pegang,Baling,Kedah
+281,2,208,20878,Pekan Parit Panjang,Baling,Kedah
+282,2,208,20879,Pekan Kampung Lalang,Baling,Kedah
+283,2,208,20880,Pekan Malau,Baling,Kedah
+284,2,209,20901,Mukim Bagan Sena,Kulim,Kedah
+285,2,209,20902,Mukim Junjong,Kulim,Kedah
+286,2,209,20903,Mukim Karangan,Kulim,Kedah
+287,2,209,20905,Mukim Kulim,Kulim,Kedah
+288,2,209,20907,Mukim Mahang,Kulim,Kedah
+289,2,209,20908,Mukim Naga Lilit,Kulim,Kedah
+29,1,103,10302,Kahang,Kluang,Johor
+290,2,209,20909,Mukim Padang China,Kulim,Kedah
+291,2,209,20910,Mukim Padang Meha,Kulim,Kedah
+292,2,209,20911,Mukim Sedim,Kulim,Kedah
+293,2,209,20912,Mukim Sidam Kanan,Kulim,Kedah
+294,2,209,20913,Mukim Sungai Seluang,Kulim,Kedah
+295,2,209,20914,Mukim Sungai Ular,Kulim,Kedah
+296,2,209,20915,Mukim Terap,Kulim,Kedah
+297,2,209,20940,Bandar Kulim,Kulim,Kedah
+298,2,209,20941,Bandar Lunas,Kulim,Kedah
+299,2,209,20942,Bandar Padang Serai,Kulim,Kedah
+3,1,101,10103,Kampung Bahru,Batu Pahat,Johor
+30,1,103,10303,Kluang,Kluang,Johor
+300,2,209,20970,Pekan Junjong,Kulim,Kedah
+301,2,209,20971,Pekan Karangan,Kulim,Kedah
+302,2,209,20972,Pekan Labu Besar,Kulim,Kedah
+303,2,209,20973,Pekan Mahang,Kulim,Kedah
+304,2,209,20974,Pekan Merbau Pulas,Kulim,Kedah
+305,2,209,20975,Pekan Sungai Karangan,Kulim,Kedah
+306,2,209,20976,Pekan Sungai Kob,Kulim,Kedah
+307,2,209,20977,Pekan Padang Meha,Kulim,Kedah
+308,2,210,21001,Mukim Bagan Samak,Bandar Baharu,Kedah
+309,2,210,21002,Mukim Kuala Selama,Bandar Baharu,Kedah
+31,1,103,10304,Layang-Layang,Kluang,Johor
+310,2,210,21003,Mukim Permatang Pasir,Bandar Baharu,Kedah
+311,2,210,21004,Mukim Relau,Bandar Baharu,Kedah
+312,2,210,21005,Mukim Serdang,Bandar Baharu,Kedah
+313,2,210,21006,Mukim Sungai Batu,Bandar Baharu,Kedah
+314,2,210,21007,Mukim Sungai Kecil,Bandar Baharu,Kedah
+315,2,210,21040,Bandar Bandar Baharu,Bandar Baharu,Kedah
+316,2,210,21041,Bandar Serdang,Bandar Baharu,Kedah
+317,2,210,21070,Pekan Lubuk Buntar,Bandar Baharu,Kedah
+318,2,210,21071,Pekan Selama,Bandar Baharu,Kedah
+319,2,210,21072,Pekan Sungai Kecil Ilir,Bandar Baharu,Kedah
+32,1,103,10305,Machap,Kluang,Johor
+320,2,210,21073,Pekan Relau,Bandar Baharu,Kedah
+321,2,211,21101,Mukim Ayer Puteh,Pendang,Kedah
+322,2,211,21102,Mukim Bukit Raya,Pendang,Kedah
+323,2,211,21103,Mukim Guar Kepayang,Pendang,Kedah
+324,2,211,21104,Mukim Padang Kerbau,Pendang,Kedah
+325,2,211,21105,Mukim Padang Peliang,Pendang,Kedah
+326,2,211,21106,Mukim Padang Pusing,Pendang,Kedah
+327,2,211,21107,Mukim Rambai,Pendang,Kedah
+328,2,211,21108,Mukim Tobiar,Pendang,Kedah
+329,2,211,21140,Bandar Pendang,Pendang,Kedah
+33,1,103,10306,Niyor,Kluang,Johor
+330,2,211,21170,Pekan Bukit Jenun,Pendang,Kedah
+331,2,211,21171,Pekan Kubur Panjang,Pendang,Kedah
+332,2,211,21172,Pekan Tanah Merah,Pendang,Kedah
+333,2,211,21173,Pekan Tokai,Pendang,Kedah
+334,2,211,21174,Pekan Kobah,Pendang,Kedah
+335,2,211,21175,Pekan Kampung Baru,Pendang,Kedah
+336,2,211,21176,Pekan Sungai Tiang,Pendang,Kedah
+337,2,212,21201,Mukim Derang,Pokok Sena,Kedah
+338,2,212,21202,Mukim Lesong,Pokok Sena,Kedah
+339,2,212,21203,Mukim Tualang,Pokok Sena,Kedah
+34,1,103,10307,Paloh,Kluang,Johor
+340,2,212,21204,Mukim Gajah Mati,Pokok Sena,Kedah
+341,2,212,21205,Mukim Jabi,Pokok Sena,Kedah
+342,2,212,21206,Mukim Bukit Lada,Pokok Sena,Kedah
+343,2,212,21240,Bandar Pokok Sena,Pokok Sena,Kedah
+344,2,212,21270,Pekan Kebun 500,Pokok Sena,Kedah
+345,3,301,30101,Alor Bakat,Bachok,Kelantan
+346,3,301,30102,Bachok,Bachok,Kelantan
+347,3,301,30103,Bator,Bachok,Kelantan
+348,3,301,30104,Chap,Bachok,Kelantan
+349,3,301,30105,Cherang Hangus,Bachok,Kelantan
+35,1,103,10308,Rengam,Kluang,Johor
+350,3,301,30106,Gajah Mati,Bachok,Kelantan
+351,3,301,30107,Gunong,Bachok,Kelantan
+352,3,301,30108,Kuau,Bachok,Kelantan
+353,3,301,30109,Kemasin,Bachok,Kelantan
+354,3,301,30110,Kubang Telaga,Bachok,Kelantan
+355,3,301,30111,Kuchelong,Bachok,Kelantan
+356,3,301,30112,Lubok Tembesu,Bachok,Kelantan
+357,3,301,30113,Mak Lipah,Bachok,Kelantan
+358,3,301,30114,Melawi,Bachok,Kelantan
+359,3,301,30115,Nipah,Bachok,Kelantan
+36,1,103,10340,Bandar Kluang,Kluang,Johor
+360,3,301,30116,Pak Pura,Bachok,Kelantan
+361,3,301,30117,Pauh Sembilan,Bachok,Kelantan
+362,3,301,30118,Paya Mengkuang,Bachok,Kelantan
+363,3,301,30119,Perupok,Bachok,Kelantan
+364,3,301,30120,Repek,Bachok,Kelantan
+365,3,301,30121,Rusa,Bachok,Kelantan
+366,3,301,30122,Senak,Bachok,Kelantan
+367,3,301,30123,Serdang,Bachok,Kelantan
+368,3,301,30124,Takang,Bachok,Kelantan
+369,3,301,30125,Tanjong,Bachok,Kelantan
+37,1,103,10341,Bandar Paloh,Kluang,Johor
+370,3,301,30126,Tanjong Jering,Bachok,Kelantan
+371,3,301,30127,Tanjong Pauh,Bachok,Kelantan
+372,3,301,30128,Telok Mesira,Bachok,Kelantan
+373,3,301,30129,Telong,Bachok,Kelantan
+374,3,301,30130,Temu Ranggas,Bachok,Kelantan
+375,3,301,30131,Tepus,Bachok,Kelantan
+376,3,301,30132,Tualang Salak,Bachok,Kelantan
+377,3,301,30140,Bandar Bachok,Bachok,Kelantan
+378,3,301,30170,Pekan Jelawat,Bachok,Kelantan
+379,3,302,30201,Aur Duri,Kota Bharu,Kelantan
+38,1,103,10342,Bandar Rengam,Kluang,Johor
+380,3,302,30202,Badak Mati,Kota Bharu,Kelantan
+381,3,302,30203,Badak,Kota Bharu,Kelantan
+382,3,302,30204,Badang,Kota Bharu,Kelantan
+383,3,302,30205,Banggu,Kota Bharu,Kelantan
+384,3,302,30206,Banggol,Kota Bharu,Kelantan
+385,3,302,30207,Baung,Kota Bharu,Kelantan
+386,3,302,30208,Bayang,Kota Bharu,Kelantan
+387,3,302,30209,Bechah Mulong,Kota Bharu,Kelantan
+388,3,302,30210,Beta Hulu,Kota Bharu,Kelantan
+389,3,302,30211,Beta Hilir,Kota Bharu,Kelantan
+39,1,104,10401,Ulu Sungai Johor,Kota Tinggi,Johor
+390,3,302,30212,Beting,Kota Bharu,Kelantan
+391,3,302,30213,Biah,Kota Bharu,Kelantan
+392,3,302,30214,Binjai,Kota Bharu,Kelantan
+393,3,302,30215,Buloh Poh,Kota Bharu,Kelantan
+394,3,302,30216,Bunut Payong,Kota Bharu,Kelantan
+395,3,302,30217,But,Kota Bharu,Kelantan
+396,3,302,30218,Chekli,Kota Bharu,Kelantan
+397,3,302,30219,Chekok,Kota Bharu,Kelantan
+398,3,302,30220,Che Latiff,Kota Bharu,Kelantan
+399,3,302,30221,Chicha,Kota Bharu,Kelantan
+4,1,101,10104,Linau,Batu Pahat,Johor
+40,1,104,10402,Ulu Sungei Sedili Besar,Kota Tinggi,Johor
+400,3,302,30222,Dal,Kota Bharu,Kelantan
+401,3,302,30223,Demit,Kota Bharu,Kelantan
+402,3,302,30224,Duson Rendah,Kota Bharu,Kelantan
+403,3,302,30225,Guntong,Kota Bharu,Kelantan
+404,3,302,30226,Jelutong,Kota Bharu,Kelantan
+405,3,302,30227,Kadok,Kota Bharu,Kelantan
+406,3,302,30228,Karang,Kota Bharu,Kelantan
+407,3,302,30229,Kampong Sireh,Kota Bharu,Kelantan
+408,3,302,30230,Kedai Buloh,Kota Bharu,Kelantan
+409,3,302,30231,Kejang,Kota Bharu,Kelantan
+41,1,104,10403,Johor Lama,Kota Tinggi,Johor
+410,3,302,30232,Kemubu,Kota Bharu,Kelantan
+411,3,302,30233,Kemumin,Kota Bharu,Kelantan
+412,3,302,30234,Kenali,Kota Bharu,Kelantan
+413,3,302,30235,Ketereh Barat,Kota Bharu,Kelantan
+414,3,302,30236,Ketereh Timor,Kota Bharu,Kelantan
+415,3,302,30237,Koh,Kota Bharu,Kelantan
+416,3,302,30238,Kota,Kota Bharu,Kelantan
+417,3,302,30239,Langgar,Kota Bharu,Kelantan
+418,3,302,30240,Lembu,Kota Bharu,Kelantan
+419,3,302,30241,Lubok Jambu,Kota Bharu,Kelantan
+42,1,104,10404,Kambau,Kota Tinggi,Johor
+420,3,302,30242,Lubok Pukol,Kota Bharu,Kelantan
+421,3,302,30243,Lundang,Kota Bharu,Kelantan
+422,3,302,30244,Lundang Paku,Kota Bharu,Kelantan
+423,3,302,30245,Mahang Barat,Kota Bharu,Kelantan
+424,3,302,30246,Mahang Timor,Kota Bharu,Kelantan
+425,3,302,30247,Mentuan,Kota Bharu,Kelantan
+426,3,302,30248,Melor,Kota Bharu,Kelantan
+427,3,302,30249,Padang Bongor,Kota Bharu,Kelantan
+428,3,302,30250,Padang Enggang,Kota Bharu,Kelantan
+429,3,302,30251,Padang Garong,Kota Bharu,Kelantan
+43,1,104,10405,Kota Tinggi,Kota Tinggi,Johor
+430,3,302,30252,Padang Leban,Kota Bharu,Kelantan
+431,3,302,30253,Padang Raja,Kota Bharu,Kelantan
+432,3,302,30254,Padang Sakar,Kota Bharu,Kelantan
+433,3,302,30255,Padang Tengah,Kota Bharu,Kelantan
+434,3,302,30256,Panchor,Kota Bharu,Kelantan
+435,3,302,30257,Pangkal Pisang,Kota Bharu,Kelantan
+436,3,302,30258,Parit,Kota Bharu,Kelantan
+437,3,302,30259,Pasir Ha,Kota Bharu,Kelantan
+438,3,302,30260,Pasir Mas,Kota Bharu,Kelantan
+439,3,302,30261,Patek,Kota Bharu,Kelantan
+44,1,104,10406,Pantai Timur,Kota Tinggi,Johor
+440,3,302,30262,Pauh,Kota Bharu,Kelantan
+441,3,302,30263,Paya,Kota Bharu,Kelantan
+442,3,302,30264,Pendek,Kota Bharu,Kelantan
+443,3,302,30265,Pengkalan Chepa,Kota Bharu,Kelantan
+444,3,302,30266,Peringat,Kota Bharu,Kelantan
+445,3,302,30267,Perol,Kota Bharu,Kelantan
+446,3,302,30268,Pintu Gang,Kota Bharu,Kelantan
+447,3,302,30269,Pulau,Kota Bharu,Kelantan
+448,3,302,30270,Pulau Belanga,Kota Bharu,Kelantan
+449,3,302,30271,Pulau Gajah,Kota Bharu,Kelantan
+45,1,104,10407,Pengerang,Kota Tinggi,Johor
+450,3,302,30272,Pulau Kundor,Kota Bharu,Kelantan
+451,3,302,30273,Pulau Panjang,Kota Bharu,Kelantan
+452,3,302,30274,Pulau Pisang,Kota Bharu,Kelantan
+453,3,302,30275,Sabak,Kota Bharu,Kelantan
+454,3,302,30276,Salor,Kota Bharu,Kelantan
+455,3,302,30277,Semut Api,Kota Bharu,Kelantan
+456,3,302,30278,Sering,Kota Bharu,Kelantan
+457,3,302,30279,Seterpa,Kota Bharu,Kelantan
+458,3,302,30280,Tanjong Chat,Kota Bharu,Kelantan
+459,3,302,30281,Tapang,Kota Bharu,Kelantan
+46,1,104,10408,Sedili Besar,Kota Tinggi,Johor
+460,3,302,30282,Tebing Tinggi,Kota Bharu,Kelantan
+461,3,302,30283,Telok,Kota Bharu,Kelantan
+462,3,302,30284,Telok Bharu,Kota Bharu,Kelantan
+463,3,302,30285,Telok Kitang,Kota Bharu,Kelantan
+464,3,302,30286,Tiong,Kota Bharu,Kelantan
+465,3,302,30287,Tok Ku,Kota Bharu,Kelantan
+466,3,302,30288,Wakaf Stan,Kota Bharu,Kelantan
+467,3,302,30289,Wakaf Siku,Kota Bharu,Kelantan
+468,3,302,30290,Bandar Kota Bharu,Kota Bharu,Kelantan
+469,3,302,30291,Bandar Baru Kubang Kerian,Kota Bharu,Kelantan
+47,1,104,10409,Sedili Kechil,Kota Tinggi,Johor
+470,3,302,30295,Pekan Mulong,Kota Bharu,Kelantan
+471,3,303,30301,Bagan,Machang,Kelantan
+472,3,303,30302,Bakar,Machang,Kelantan
+473,3,303,30303,Dewan,Machang,Kelantan
+474,3,303,30304,Gading Galoh,Machang,Kelantan
+475,3,303,30305,Jakar,Machang,Kelantan
+476,3,303,30306,Joh,Machang,Kelantan
+477,3,303,30307,Kelaweh,Machang,Kelantan
+478,3,303,30308,Kerawang,Machang,Kelantan
+479,3,303,30309,Kerilla,Machang,Kelantan
+48,1,104,10410,Tanjong Surat,Kota Tinggi,Johor
+480,3,303,30310,Kuala Kerak,Machang,Kelantan
+481,3,303,30311,Labok,Machang,Kelantan
+482,3,303,30312,Limau Hantu,Machang,Kelantan
+483,3,303,30313,Machang,Machang,Kelantan
+484,3,303,30314,Padang Kemunchut,Machang,Kelantan
+485,3,303,30315,Pek,Machang,Kelantan
+486,3,303,30316,Pemanok,Machang,Kelantan
+487,3,303,30317,Pulai Chondong,Machang,Kelantan
+488,3,303,30318,Raja,Machang,Kelantan
+489,3,303,30319,Temangan,Machang,Kelantan
+49,1,104,10440,Bandar Kota Tinggi,Kota Tinggi,Johor
+490,3,303,30320,Tengah,Machang,Kelantan
+491,3,303,30321,Tok Bok,Machang,Kelantan
+492,3,303,30322,Ulu Sat,Machang,Kelantan
+493,3,303,30340,Bandar Machang,Machang,Kelantan
+494,3,303,30371,Pekan Temangan,Machang,Kelantan
+495,3,304,30401,Alor Buloh,Pasir Mas,Kelantan
+496,3,304,30402,Alor Pasir,Pasir Mas,Kelantan
+497,3,304,30403,Apa Apa,Pasir Mas,Kelantan
+498,3,304,30404,Apam,Pasir Mas,Kelantan
+499,3,304,30405,Bakong,Pasir Mas,Kelantan
+5,1,101,10105,Lubok,Batu Pahat,Johor
+50,1,105,10502,Lenggor,Mersing,Johor
+500,3,304,30406,Bechah Menerong,Pasir Mas,Kelantan
+501,3,304,30407,Bechah Palas,Pasir Mas,Kelantan
+502,3,304,30408,Bechah Semak,Pasir Mas,Kelantan
+503,3,304,30409,Bukit Tuku,Pasir Mas,Kelantan
+504,3,304,30410,Chetok,Pasir Mas,Kelantan
+505,3,304,30411,Gelam,Pasir Mas,Kelantan
+506,3,304,30412,Gua,Pasir Mas,Kelantan
+507,3,304,30413,Gual Nering,Pasir Mas,Kelantan
+508,3,304,30414,Gual Periok,Pasir Mas,Kelantan
+509,3,304,30415,Jabo,Pasir Mas,Kelantan
+51,1,105,10503,Mersing,Mersing,Johor
+510,3,304,30416,Jejawi,Pasir Mas,Kelantan
+511,3,304,30417,Kangkong,Pasir Mas,Kelantan
+512,3,304,30418,Kala,Pasir Mas,Kelantan
+513,3,304,30419,Kasa,Pasir Mas,Kelantan
+514,3,304,30420,Kedondong,Pasir Mas,Kelantan
+515,3,304,30421,Kenak,Pasir Mas,Kelantan
+516,3,304,30422,Kerasak,Pasir Mas,Kelantan
+517,3,304,30423,Kiat,Pasir Mas,Kelantan
+518,3,304,30424,Kuala Lemal,Pasir Mas,Kelantan
+519,3,304,30425,Kubang Batang,Pasir Mas,Kelantan
+52,1,105,10504,Padang Endau,Mersing,Johor
+520,3,304,30426,Kubang Bemban,Pasir Mas,Kelantan
+521,3,304,30427,Kubang Gatal,Pasir Mas,Kelantan
+522,3,304,30428,Kubang Gendang,Pasir Mas,Kelantan
+523,3,304,30429,Kubang Ketam,Pasir Mas,Kelantan
+524,3,304,30430,Kubang Sepat,Pasir Mas,Kelantan
+525,3,304,30431,Kubang Terap,Pasir Mas,Kelantan
+526,3,304,30432,Lalang,Pasir Mas,Kelantan
+527,3,304,30433,Lubok Anching,Pasir Mas,Kelantan
+528,3,304,30434,Lubok Gong,Pasir Mas,Kelantan
+529,3,304,30435,Lubok Kawah,Pasir Mas,Kelantan
+53,1,105,10511,Sembrong,Mersing,Johor
+530,3,304,30436,Lubok Tapah,Pasir Mas,Kelantan
+531,3,304,30437,Lubok Setol,Pasir Mas,Kelantan
+532,3,304,30438,Meranti,Pasir Mas,Kelantan
+533,3,304,30439,Padang Embon,Pasir Mas,Kelantan
+534,3,304,30440,Paloh,Pasir Mas,Kelantan
+535,3,304,30441,Rantau Panjang,Pasir Mas,Kelantan
+536,3,304,30442,Sakar,Pasir Mas,Kelantan
+537,3,304,30443,Tasik Berangan,Pasir Mas,Kelantan
+538,3,304,30444,Teliar,Pasir Mas,Kelantan
+539,3,304,30445,Tendong,Pasir Mas,Kelantan
+54,1,105,10513,Tenglu,Mersing,Johor
+540,3,304,30446,Tok Sangkot,Pasir Mas,Kelantan
+541,3,304,30447,Tok Uban,Pasir Mas,Kelantan
+542,3,304,30448,Kuala Kelar,Pasir Mas,Kelantan
+543,3,304,30450,Bandar Pasir Mas,Pasir Mas,Kelantan
+544,3,304,30460,Bandar Kechil Rantau Panjang,Pasir Mas,Kelantan
+545,3,305,30501,Banggol Setol,Pasir Puteh,Kelantan
+546,3,305,30502,Batu Sebutir,Pasir Puteh,Kelantan
+547,3,305,30503,Berangan,Pasir Puteh,Kelantan
+548,3,305,30504,Bukit Abal Barat,Pasir Puteh,Kelantan
+549,3,305,30505,Bukit Abal Timor,Pasir Puteh,Kelantan
+55,1,105,10514,Triang,Mersing,Johor
+550,3,305,30506,Bukit Merbau,Pasir Puteh,Kelantan
+551,3,305,30507,Bukit Tanah,Pasir Puteh,Kelantan
+552,3,305,30508,Cherang Ruku,Pasir Puteh,Kelantan
+553,3,305,30509,Changgai,Pasir Puteh,Kelantan
+554,3,305,30510,Gong Datok Barat,Pasir Puteh,Kelantan
+555,3,305,30511,Gong Datok Timor,Pasir Puteh,Kelantan
+556,3,305,30512,Gong Chapa,Pasir Puteh,Kelantan
+557,3,305,30513,Gong Chengal,Pasir Puteh,Kelantan
+558,3,305,30514,Gong Garu,Pasir Puteh,Kelantan
+559,3,305,30515,Gong Kulim,Pasir Puteh,Kelantan
+56,1,105,10540,Bandar Jemaluang,Mersing,Johor
+560,3,305,30516,Gong Nangka,Pasir Puteh,Kelantan
+561,3,305,30517,Gong Pachat,Pasir Puteh,Kelantan
+562,3,305,30518,Jeram,Pasir Puteh,Kelantan
+563,3,305,30519,Jerus,Pasir Puteh,Kelantan
+564,3,305,30520,Kandis,Pasir Puteh,Kelantan
+565,3,305,30521,Kampong Wakaf,Pasir Puteh,Kelantan
+566,3,305,30522,Kolam Tembesu,Pasir Puteh,Kelantan
+567,3,305,30523,Merbol,Pasir Puteh,Kelantan
+568,3,305,30524,Merkang,Pasir Puteh,Kelantan
+569,3,305,30525,Padang Pak Amat,Pasir Puteh,Kelantan
+57,1,105,10541,Bandar Mersing,Mersing,Johor
+570,3,305,30526,Pasir Puteh,Pasir Puteh,Kelantan
+571,3,305,30527,Pengkalan,Pasir Puteh,Kelantan
+572,3,305,30528,Permatang Sungkai,Pasir Puteh,Kelantan
+573,3,305,30529,Seligi,Pasir Puteh,Kelantan
+574,3,305,30530,Selising,Pasir Puteh,Kelantan
+575,3,305,30531,Semerak,Pasir Puteh,Kelantan
+576,3,305,30532,Tasik,Pasir Puteh,Kelantan
+577,3,305,30533,Telipok,Pasir Puteh,Kelantan
+578,3,305,30540,Bandar Pasir Puteh,Pasir Puteh,Kelantan
+579,3,305,30570,Pekan Selising,Pasir Puteh,Kelantan
+58,1,105,10542,Bandar Mersing Kanan,Mersing,Johor
+580,3,306,30601,Batang Merbau,Tanah Merah,Kelantan
+581,3,306,30603,Bendang Nior,Tanah Merah,Kelantan
+582,3,306,30604,Bukit Durian,Tanah Merah,Kelantan
+583,3,306,30605,Ulu Kusial,Tanah Merah,Kelantan
+584,3,306,30606,Jedok,Tanah Merah,Kelantan
+585,3,306,30609,Kuala Paku,Tanah Merah,Kelantan
+586,3,306,30611,Lawang,Tanah Merah,Kelantan
+587,3,306,30612,Maka,Tanah Merah,Kelantan
+588,3,306,30613,Nibong,Tanah Merah,Kelantan
+589,3,306,30614,Pasir Ganda,Tanah Merah,Kelantan
+59,1,105,10543,Bandar Padang Endau,Mersing,Johor
+590,3,306,30615,Rambai,Tanah Merah,Kelantan
+591,3,306,30616,Sokor,Tanah Merah,Kelantan
+592,3,306,30617,Tanah Merah,Tanah Merah,Kelantan
+593,3,306,30618,Tebing Tinggi,Tanah Merah,Kelantan
+594,3,306,30640,Bandar Tanah Merah,Tanah Merah,Kelantan
+595,3,307,30701,Bechah Resak,Tumpat,Kelantan
+596,3,307,30702,Bunohan,Tumpat,Kelantan
+597,3,307,30703,Bunut Sarang Burong,Tumpat,Kelantan
+598,3,307,30704,Chenderong Batu,Tumpat,Kelantan
+599,3,307,30705,Cherang Melintang,Tumpat,Kelantan
+6,1,101,10106,Minyak Beku,Batu Pahat,Johor
+60,1,106,10601,Ayer Hitam,Muar,Johor
+600,3,307,30706,Geting,Tumpat,Kelantan
+601,3,307,30707,Jal,Tumpat,Kelantan
+602,3,307,30708,Kampong Laut,Tumpat,Kelantan
+603,3,307,30709,Kelaboran,Tumpat,Kelantan
+604,3,307,30710,Ketil,Tumpat,Kelantan
+605,3,307,30711,Kok Keli,Tumpat,Kelantan
+606,3,307,30712,Kutang,Tumpat,Kelantan
+607,3,307,30713,Mak Neralang,Tumpat,Kelantan
+608,3,307,30714,Morak,Tumpat,Kelantan
+609,3,307,30715,Pasir Pekan,Tumpat,Kelantan
+61,1,106,10602,Bandar,Muar,Johor
+610,3,307,30716,Palekbang,Tumpat,Kelantan
+611,3,307,30717,Periok,Tumpat,Kelantan
+612,3,307,30718,Pulau Besar,Tumpat,Kelantan
+613,3,307,30719,Selehong Selatan,Tumpat,Kelantan
+614,3,307,30720,Selehong Utara,Tumpat,Kelantan
+615,3,307,30721,Simpangan,Tumpat,Kelantan
+616,3,307,30722,Sungai Pinang,Tumpat,Kelantan
+617,3,307,30723,Tabar,Tumpat,Kelantan
+618,3,307,30724,Talak,Tumpat,Kelantan
+619,3,307,30725,Telok Renjuna,Tumpat,Kelantan
+62,1,106,10603,Bukit Kepong,Muar,Johor
+620,3,307,30726,Tujoh,Tumpat,Kelantan
+621,3,307,30727,Tumpat,Tumpat,Kelantan
+622,3,307,30728,Wakaf Bharu,Tumpat,Kelantan
+623,3,307,30729,Wakaf Delima,Tumpat,Kelantan
+624,3,307,30740,Bandar Tumpat,Tumpat,Kelantan
+625,3,308,30801,Batu Papan,Gua Musang,Kelantan
+626,3,308,30802,Gua Musang,Gua Musang,Kelantan
+627,3,308,30803,Ulu Nenggiri,Gua Musang,Kelantan
+628,3,308,30804,Ketil,Gua Musang,Kelantan
+629,3,308,30805,Kuala Sungai,Gua Musang,Kelantan
+63,1,106,10606,Jalan Bakri,Muar,Johor
+630,3,308,30806,Limau Kasturi,Gua Musang,Kelantan
+631,3,308,30807,Pulai,Gua Musang,Kelantan
+632,3,308,30808,Relai,Gua Musang,Kelantan
+633,3,308,30809,Renok,Gua Musang,Kelantan
+634,3,308,30840,Bandar Gua Musang,Gua Musang,Kelantan
+635,3,310,31001,Batu Mengkebang,Kuala Krai,Kelantan
+636,3,310,31003,Enggong,Kuala Krai,Kelantan
+637,3,310,31004,Gajah,Kuala Krai,Kelantan
+638,3,310,31005,Kandek,Kuala Krai,Kelantan
+639,3,310,31006,Kenor,Kuala Krai,Kelantan
+64,1,106,10607,Jorak,Muar,Johor
+640,3,310,31007,Kuala Geris,Kuala Krai,Kelantan
+641,3,310,31008,Kuala Krai,Kuala Krai,Kelantan
+642,3,310,31009,Kuala Nal,Kuala Krai,Kelantan
+643,3,310,31010,Kuala Pahi,Kuala Krai,Kelantan
+644,3,310,31011,Kuala Pergau,Kuala Krai,Kelantan
+645,3,310,31012,Kuala Stong,Kuala Krai,Kelantan
+646,3,310,31014,Mambong,Kuala Krai,Kelantan
+647,3,310,31015,Manek Urai,Kuala Krai,Kelantan
+648,3,310,31016,Manjor,Kuala Krai,Kelantan
+649,3,310,31017,Telekong,Kuala Krai,Kelantan
+65,1,106,10610,Lenga,Muar,Johor
+650,3,310,31040,Bandar Kuala Krai,Kuala Krai,Kelantan
+651,3,311,31101,Belimbing,Jeli,Kelantan
+652,3,311,31102,Bunga Tanjong,Jeli,Kelantan
+653,3,311,31103,Jeli,Jeli,Kelantan
+654,3,311,31104,Jeli Tepi Sungai,Jeli,Kelantan
+655,3,311,31105,Kalai,Jeli,Kelantan
+656,3,311,31106,Kuala Balah,Jeli,Kelantan
+657,3,311,31107,Lubok Bongor,Jeli,Kelantan
+658,3,312,31201,Balar,Kecil Lojing,Kelantan
+659,3,312,31202,Kuala Betis,Kecil Lojing,Kelantan
+66,1,106,10611,Parit Bakar,Muar,Johor
+660,3,312,31203,Blau,Kecil Lojing,Kelantan
+661,3,312,31204,Hau,Kecil Lojing,Kelantan
+662,3,312,31205,Hendrop,Kecil Lojing,Kelantan
+663,3,312,31206,Sigar,Kecil Lojing,Kelantan
+664,3,312,31207,Tuel,Kecil Lojing,Kelantan
+665,4,401,40101,Mukim Alai,Melaka Tengah,Melaka
+666,4,401,40102,Mukim Ayer Molek,Melaka Tengah,Melaka
+667,4,401,40103,Mukim Bachang,Melaka Tengah,Melaka
+668,4,401,40104,Mukim Balai Panjang,Melaka Tengah,Melaka
+669,4,401,40105,Mukim Batu Berendam,Melaka Tengah,Melaka
+67,1,106,10612,Parit Jawa,Muar,Johor
+670,4,401,40106,Mukim Bertam,Melaka Tengah,Melaka
+671,4,401,40107,Mukim Bukit Baru,Melaka Tengah,Melaka
+672,4,401,40108,Mukim Bukit Katil,Melaka Tengah,Melaka
+673,4,401,40109,Mukim Bukit Lintang,Melaka Tengah,Melaka
+674,4,401,40110,Mukim Bukit Piatu,Melaka Tengah,Melaka
+675,4,401,40111,Mukim Bukit Rambai,Melaka Tengah,Melaka
+676,4,401,40112,Mukim Cheng,Melaka Tengah,Melaka
+677,4,401,40113,Mukim Duyong,Melaka Tengah,Melaka
+678,4,401,40114,Mukim Ujong Pasir,Melaka Tengah,Melaka
+679,4,401,40115,Mukim Kandang,Melaka Tengah,Melaka
+68,1,106,10613,Sri Menanti,Muar,Johor
+680,4,401,40116,Mukim Klebang Besar,Melaka Tengah,Melaka
+681,4,401,40117,Mukim Klebang Kechil,Melaka Tengah,Melaka
+682,4,401,40118,Mukim Krubong,Melaka Tengah,Melaka
+683,4,401,40119,Mukim Padang Semabok,Melaka Tengah,Melaka
+684,4,401,40120,Mukim Padang Temu,Melaka Tengah,Melaka
+685,4,401,40121,Mukim Paya Rumput,Melaka Tengah,Melaka
+686,4,401,40122,Mukim Pringgit,Melaka Tengah,Melaka
+687,4,401,40123,Mukim Pernu,Melaka Tengah,Melaka
+688,4,401,40124,Mukim Semabok,Melaka Tengah,Melaka
+689,4,401,40125,Mukim Sungei Udang,Melaka Tengah,Melaka
+69,1,106,10615,Sungai Balang,Muar,Johor
+690,4,401,40126,Mukim Tangga Batu,Melaka Tengah,Melaka
+691,4,401,40127,Mukim Tanjong Kling,Melaka Tengah,Melaka
+692,4,401,40128,Mukim Tanjong Minyak,Melaka Tengah,Melaka
+693,4,401,40129,Mukim Telok Mas,Melaka Tengah,Melaka
+694,4,401,40140,Bandar Bukit Baru,Melaka Tengah,Melaka
+695,4,401,40141,Bandar Melaka,Melaka Tengah,Melaka
+696,4,401,40170,Pekan Ayer Molek,Melaka Tengah,Melaka
+697,4,401,40171,Pekan Batu Berendam,Melaka Tengah,Melaka
+698,4,401,40172,Pekan Bukit Rambai,Melaka Tengah,Melaka
+699,4,401,40173,Pekan Kandang,Melaka Tengah,Melaka
+7,1,101,10107,Peserai,Batu Pahat,Johor
+70,1,106,10616,Sungai Raya,Muar,Johor
+700,4,401,40174,Pekan Klebang,Melaka Tengah,Melaka
+701,4,401,40175,Pekan Paya Rumput,Melaka Tengah,Melaka
+702,4,401,40176,Pekan Sungei Udang,Melaka Tengah,Melaka
+703,4,401,40177,Pekan Tangga Batu,Melaka Tengah,Melaka
+704,4,401,40178,Pekan Tanjong Kling,Melaka Tengah,Melaka
+705,4,402,40201,Mukim Ayer Panas,Jasin,Melaka
+706,4,402,40202,Mukim Batang Malaka,Jasin,Melaka
+707,4,402,40203,Mukim Bukit Senggeh,Jasin,Melaka
+708,4,402,40204,Mukim Chabau,Jasin,Melaka
+709,4,402,40205,Mukim Chin Chin,Jasin,Melaka
+71,1,106,10617,Sungai Terap,Muar,Johor
+710,4,402,40206,Mukim Chohong,Jasin,Melaka
+711,4,402,40207,Mukim Jasin,Jasin,Melaka
+712,4,402,40208,Mukim Jus,Jasin,Melaka
+713,4,402,40209,Mukim Kesang,Jasin,Melaka
+714,4,402,40210,Mukim Merlimau,Jasin,Melaka
+715,4,402,40211,Mukim Nyalas,Jasin,Melaka
+716,4,402,40212,Mukim Rim,Jasin,Melaka
+717,4,402,40213,Mukim Sebatu,Jasin,Melaka
+718,4,402,40214,Mukim Selandar,Jasin,Melaka
+719,4,402,40215,Mukim Sempang,Jasin,Melaka
+72,1,106,10640,Bandar Bandar Maharani,Muar,Johor
+720,4,402,40216,Mukim Semujok,Jasin,Melaka
+721,4,402,40217,Mukim Serkam,Jasin,Melaka
+722,4,402,40218,Mukim Sungei Rambai,Jasin,Melaka
+723,4,402,40219,Mukim Tedong,Jasin,Melaka
+724,4,402,40220,Mukim Umbai,Jasin,Melaka
+725,4,402,40240,Bandar Jasin,Jasin,Melaka
+726,4,402,40241,Bandar Merlimau,Jasin,Melaka
+727,4,402,40270,Pekan Asahan,Jasin,Melaka
+728,4,402,40271,Pekan Batang Melaka,Jasin,Melaka
+729,4,402,40272,Pekan Bemban,Jasin,Melaka
+73,1,106,10642,Bandar Bukit Kepong,Muar,Johor
+730,4,402,40273,Pekan Chinchin,Jasin,Melaka
+731,4,402,40274,Pekan Kesang Pajak,Jasin,Melaka
+732,4,402,40275,Pekan Nyalas,Jasin,Melaka
+733,4,402,40276,Pekan Selandar,Jasin,Melaka
+734,4,402,40277,Pekan Sempang Bekoh,Jasin,Melaka
+735,4,402,40278,Pekan Sungei Rambai,Jasin,Melaka
+736,4,403,40301,Mukim Ayer Pa Abas,Alor Gajah,Melaka
+737,4,403,40302,Mukim Belimbing,Alor Gajah,Melaka
+738,4,403,40303,Mukim Beringin,Alor Gajah,Melaka
+739,4,403,40304,Mukim Brisu,Alor Gajah,Melaka
+74,1,106,10643,Bandar Panchor,Muar,Johor
+740,4,403,40305,Mukim Durian Tunggal,Alor Gajah,Melaka
+741,4,403,40306,Mukim Gadek,Alor Gajah,Melaka
+742,4,403,40307,Mukim Kelemak,Alor Gajah,Melaka
+743,4,403,40308,Mukim Kemuning,Alor Gajah,Melaka
+744,4,403,40309,Mukim Kuala Linggi,Alor Gajah,Melaka
+745,4,403,40310,Mukim Kuala Sungei Baru,Alor Gajah,Melaka
+746,4,403,40311,Mukim Lendu,Alor Gajah,Melaka
+747,4,403,40312,Mukim Machap,Alor Gajah,Melaka
+748,4,403,40313,Mukim Masjid Tanah,Alor Gajah,Melaka
+749,4,403,40314,Mukim Malaka Pindah,Alor Gajah,Melaka
+75,1,106,10645,Bandar Parit Jawa,Muar,Johor
+750,4,403,40315,Mukim Melekek,Alor Gajah,Melaka
+751,4,403,40316,Mukim Padang Sebang,Alor Gajah,Melaka
+752,4,403,40317,Mukim Parit Melana,Alor Gajah,Melaka
+753,4,403,40318,Mukim Pegoh,Alor Gajah,Melaka
+754,4,403,40319,Mukim Pulau Sebang,Alor Gajah,Melaka
+755,4,403,40320,Mukim Ramuan China Besar,Alor Gajah,Melaka
+756,4,403,40321,Mukim Ramuan China Kechil,Alor Gajah,Melaka
+757,4,403,40322,Mukim Rembia,Alor Gajah,Melaka
+758,4,403,40323,Mukim Sungei Baru Ilir,Alor Gajah,Melaka
+759,4,403,40324,Mukim Sungei Baru Ulu,Alor Gajah,Melaka
+76,1,106,10670,Pekan Bukit Pasir,Muar,Johor
+760,4,403,40325,Mukim Sungei Baru Tengah,Alor Gajah,Melaka
+761,4,403,40326,Mukim Sungei Buloh,Alor Gajah,Melaka
+762,4,403,40327,Mukim Sungei Petai,Alor Gajah,Melaka
+763,4,403,40328,Mukim Sungei Siput,Alor Gajah,Melaka
+764,4,403,40329,Mukim Taboh Naning,Alor Gajah,Melaka
+765,4,403,40330,Mukim Tanjong Rimau,Alor Gajah,Melaka
+766,4,403,40331,Mukim Tebong,Alor Gajah,Melaka
+767,4,403,40340,Bandar Alor Gajah,Alor Gajah,Melaka
+768,4,403,40341,Bandar Masjid Tanah,Alor Gajah,Melaka
+769,4,403,40342,Bandar Pulau Sebang,Alor Gajah,Melaka
+77,1,107,10701,Ayer Baloi,Pontian,Johor
+770,4,403,40370,Pekan Durian Tunggal,Alor Gajah,Melaka
+771,4,403,40371,Pekan Kuala Sg.Baru,Alor Gajah,Melaka
+772,4,403,40372,Pekan Lobok China,Alor Gajah,Melaka
+773,4,403,40373,Pekan Rembia,Alor Gajah,Melaka
+774,5,501,50101,Mukim Glami Lemi,Jelebu,Negeri Sembilan
+775,5,501,50102,Mukim Ulu Klawang,Jelebu,Negeri Sembilan
+776,5,501,50103,Mukim Ulu Triang,Jelebu,Negeri Sembilan
+777,5,501,50104,Mukim Kenaboi,Jelebu,Negeri Sembilan
+778,5,501,50105,Mukim Kuala Klawang,Jelebu,Negeri Sembilan
+779,5,501,50106,Mukim Peradong,Jelebu,Negeri Sembilan
+78,1,107,10702,Air Masin,Pontian,Johor
+780,5,501,50107,Mukim Pertang,Jelebu,Negeri Sembilan
+781,5,501,50108,Mukim Triang Ilir,Jelebu,Negeri Sembilan
+782,5,501,50140,Bandar Kuala Klawang,Jelebu,Negeri Sembilan
+783,5,501,50170,Pekan Kuala Klawang,Jelebu,Negeri Sembilan
+784,5,501,50171,Pekan Pertang,Jelebu,Negeri Sembilan
+785,5,501,50172,Pekan Titi,Jelebu,Negeri Sembilan
+786,5,501,50173,Pekan Simpang Durian,Jelebu,Negeri Sembilan
+787,5,501,50174,Pekan Simpang Pertang,Jelebu,Negeri Sembilan
+788,5,501,50175,Pekan Petaling,Jelebu,Negeri Sembilan
+789,5,501,50176,Pekan Sungai Mutoh,Jelebu,Negeri Sembilan
+79,1,107,10703,Api-Api,Pontian,Johor
+790,5,502,50201,Mukim Ampang Tinggi,Kuala Pilah,Negeri Sembilan
+791,5,502,50202,Mukim Ulu Jempol,Kuala Pilah,Negeri Sembilan
+792,5,502,50203,Mukim Ulu Muar,Kuala Pilah,Negeri Sembilan
+793,5,502,50204,Mukim Johol,Kuala Pilah,Negeri Sembilan
+794,5,502,50205,Mukim Juasseh,Kuala Pilah,Negeri Sembilan
+795,5,502,50206,Mukim Kepis,Kuala Pilah,Negeri Sembilan
+796,5,502,50207,Mukim Langkap,Kuala Pilah,Negeri Sembilan
+797,5,502,50208,Mukim Parit Tinggi,Kuala Pilah,Negeri Sembilan
+798,5,502,50209,Mukim Pilah,Kuala Pilah,Negeri Sembilan
+799,5,502,50210,Mukim Sri Menanti,Kuala Pilah,Negeri Sembilan
+8,1,101,10108,Sri Gading,Batu Pahat,Johor
+80,1,107,10704,Benut,Pontian,Johor
+800,5,502,50211,Mukim Terachi,Kuala Pilah,Negeri Sembilan
+801,5,502,50240,Bandar Kuala Pilah,Kuala Pilah,Negeri Sembilan
+802,5,502,50270,Pekan Dangi,Kuala Pilah,Negeri Sembilan
+803,5,502,50271,Pekan Gunung Pasir,Kuala Pilah,Negeri Sembilan
+804,5,502,50272,Pekan Johol,Kuala Pilah,Negeri Sembilan
+805,5,502,50273,Pekan Parit Tinggi,Kuala Pilah,Negeri Sembilan
+806,5,502,50274,Pekan Senaling,Kuala Pilah,Negeri Sembilan
+807,5,502,50275,Pekan Tanjong Ipoh,Kuala Pilah,Negeri Sembilan
+808,5,502,50276,Pekan Juasseh,Kuala Pilah,Negeri Sembilan
+809,5,502,50277,Pekan Bukit Gelugor,Kuala Pilah,Negeri Sembilan
+81,1,107,10705,Jeram Batu,Pontian,Johor
+810,5,502,50278,Pekan Melang,Kuala Pilah,Negeri Sembilan
+811,5,502,50279,Pekan Air Mawang,Kuala Pilah,Negeri Sembilan
+812,5,502,50280,Pekan Dangi Baru,Kuala Pilah,Negeri Sembilan
+813,5,503,50301,Mukim Jimah,Port Dickson,Negeri Sembilan
+814,5,503,50302,Mukim Linggi,Port Dickson,Negeri Sembilan
+815,5,503,50303,Mukim Pasir Panjang,Port Dickson,Negeri Sembilan
+816,5,503,50304,Mukim Port Dickson,Port Dickson,Negeri Sembilan
+817,5,503,50305,Mukim Si Rusa,Port Dickson,Negeri Sembilan
+818,5,503,50340,Bandar Port Dickson,Port Dickson,Negeri Sembilan
+819,5,503,50341,Bandar Telok Kemang,Port Dickson,Negeri Sembilan
+82,1,107,10706,Pengkalan Raja,Pontian,Johor
+820,5,503,50370,Pekan Lukut,Port Dickson,Negeri Sembilan
+821,5,503,50371,Pekan Pasir Panjang,Port Dickson,Negeri Sembilan
+822,5,503,50372,Pekan Peng.Kempas,Port Dickson,Negeri Sembilan
+823,5,503,50373,Pekan Chuah,Port Dickson,Negeri Sembilan
+824,5,503,50374,Pekan Port Dickson,Port Dickson,Negeri Sembilan
+825,5,503,50375,Pekan Telok Kemang,Port Dickson,Negeri Sembilan
+826,5,503,50376,Pekan Bukit Pelandok,Port Dickson,Negeri Sembilan
+827,5,503,50377,Pekan Linggi,Port Dickson,Negeri Sembilan
+828,5,503,50378,Pekan Air Kuning,Port Dickson,Negeri Sembilan
+829,5,503,50379,Pekan Sungai Menyala,Port Dickson,Negeri Sembilan
+83,1,107,10707,Pontian,Pontian,Johor
+830,5,503,50380,Pekan Bagan Pinang,Port Dickson,Negeri Sembilan
+831,5,503,50381,Pekan Tanah Merah Utara,Port Dickson,Negeri Sembilan
+832,5,503,50382,Pekan Tanah Merah Selatan,Port Dickson,Negeri Sembilan
+833,5,503,50383,Pekan Jemima,Port Dickson,Negeri Sembilan
+834,5,504,50401,Mukim Batu Hampar,Rembau,Negeri Sembilan
+835,5,504,50402,Mukim Bongek,Rembau,Negeri Sembilan
+836,5,504,50403,Mukim Chembong,Rembau,Negeri Sembilan
+837,5,504,50404,Mukim Chengkau,Rembau,Negeri Sembilan
+838,5,504,50405,Mukim Gadong,Rembau,Negeri Sembilan
+839,5,504,50406,Mukim Kundor,Rembau,Negeri Sembilan
+84,1,107,10708,Rimba Terjun,Pontian,Johor
+840,5,504,50407,Mukim Legong Ilir,Rembau,Negeri Sembilan
+841,5,504,50408,Mukim Legong Ulu,Rembau,Negeri Sembilan
+842,5,504,50409,Mukim Miku,Rembau,Negeri Sembilan
+843,5,504,50410,Mukim Nerasau,Rembau,Negeri Sembilan
+844,5,504,50411,Mukim Pedas,Rembau,Negeri Sembilan
+845,5,504,50412,Mukim Pilin,Rembau,Negeri Sembilan
+846,5,504,50413,Mukim Selemak,Rembau,Negeri Sembilan
+847,5,504,50414,Mukim Semerbok,Rembau,Negeri Sembilan
+848,5,504,50415,Mukim Spri,Rembau,Negeri Sembilan
+849,5,504,50416,Mukim Tanjong Kling,Rembau,Negeri Sembilan
+85,1,107,10709,Serkat,Pontian,Johor
+850,5,504,50417,Mukim Titian Bintangor,Rembau,Negeri Sembilan
+851,5,504,50440,Bandar Rembau,Rembau,Negeri Sembilan
+852,5,504,50470,Pekan Kampong Batu,Rembau,Negeri Sembilan
+853,5,504,50471,Pekan Kota,Rembau,Negeri Sembilan
+854,5,504,50472,Pekan Lubok China,Rembau,Negeri Sembilan
+855,5,504,50473,Pekan Pedas,Rembau,Negeri Sembilan
+856,5,504,50474,Pekan Chembong,Rembau,Negeri Sembilan
+857,5,504,50475,Pekan Rembau,Rembau,Negeri Sembilan
+858,5,504,50476,Pekan Chengkau,Rembau,Negeri Sembilan
+859,5,504,50477,Pekan Seri Kota,Rembau,Negeri Sembilan
+86,1,107,10710,Sungai Karang,Pontian,Johor
+860,5,504,50478,Pekan Seri Kendong,Rembau,Negeri Sembilan
+861,5,504,50479,Pekan Merbau Sembilan,Rembau,Negeri Sembilan
+862,5,505,50501,Mukim Ampangan,Seremban,Negeri Sembilan
+863,5,505,50502,Mukim Labu,Seremban,Negeri Sembilan
+864,5,505,50503,Mukim Lenggeng,Seremban,Negeri Sembilan
+865,5,505,50504,Mukim Pantai,Seremban,Negeri Sembilan
+866,5,505,50505,Mukim Rantau,Seremban,Negeri Sembilan
+867,5,505,50506,Mukim Rasah,Seremban,Negeri Sembilan
+868,5,505,50507,Mukim Seremban,Seremban,Negeri Sembilan
+869,5,505,50508,Mukim Setul,Seremban,Negeri Sembilan
+87,1,107,10711,Sungei Pinggan,Pontian,Johor
+870,5,505,50540,Bandar Seremban,Seremban,Negeri Sembilan
+871,5,505,50541,Bandar Seremban 3,Seremban,Negeri Sembilan
+872,5,505,50542,Bandar Seremban Utama,Seremban,Negeri Sembilan
+873,5,505,50543,Bandar Mantin Utama,Seremban,Negeri Sembilan
+874,5,505,50544,Bandar Baru Enstek,Seremban,Negeri Sembilan
+875,5,505,50545,Bandar Baru Kota Sri Mas,Seremban,Negeri Sembilan
+876,5,505,50546,Bandar Nilai Utama,Seremban,Negeri Sembilan
+877,5,505,50547,Bandar Sri Sendayan,Seremban,Negeri Sembilan
+878,5,505,50570,Pekan Broga,Seremban,Negeri Sembilan
+879,5,505,50571,Pekan Ulu Beranang,Seremban,Negeri Sembilan
+88,1,107,10740,Bandar Benut,Pontian,Johor
+880,5,505,50572,Pekan Labu,Seremban,Negeri Sembilan
+881,5,505,50573,Pekan Lenggeng,Seremban,Negeri Sembilan
+882,5,505,50574,Pekan Mambau,Seremban,Negeri Sembilan
+883,5,505,50575,Pekan Nilai,Seremban,Negeri Sembilan
+884,5,505,50576,Pekan Mantin,Seremban,Negeri Sembilan
+885,5,505,50577,Pekan Pajam,Seremban,Negeri Sembilan
+886,5,505,50578,Pekan Rantau,Seremban,Negeri Sembilan
+887,5,505,50579,Pekan Tiroi,Seremban,Negeri Sembilan
+888,5,505,50580,Pekan Panchor,Seremban,Negeri Sembilan
+889,5,505,50581,Pekan Taman Seremban,Seremban,Negeri Sembilan
+89,1,107,10741,Bandar Pontian Kechil,Pontian,Johor
+890,5,505,50582,Pekan Rahang Baru,Seremban,Negeri Sembilan
+891,5,505,50583,Pekan Paroi,Seremban,Negeri Sembilan
+892,5,505,50584,Pekan Bukit Kepayang,Seremban,Negeri Sembilan
+893,5,505,50585,Pekan Dusun Setia,Seremban,Negeri Sembilan
+894,5,505,50586,Pekan Sungai Gadut,Seremban,Negeri Sembilan
+895,5,505,50587,Pekan Bukti,Seremban,Negeri Sembilan
+896,5,505,50588,Pekan Sikamat,Seremban,Negeri Sembilan
+897,5,505,50589,Pekan Shah Bandar,Seremban,Negeri Sembilan
+898,5,505,50590,Pekan Setul,Seremban,Negeri Sembilan
+899,5,505,50591,Pekan Ulu Temiang,Seremban,Negeri Sembilan
+9,1,101,10109,Sri Medan,Batu Pahat,Johor
+90,1,107,10770,Pekan Pekan Nenas,Pontian,Johor
+900,5,505,50592,Pekan Paroi Jaya,Seremban,Negeri Sembilan
+901,5,505,50593,Pekan Rasah Jaya,Seremban,Negeri Sembilan
+902,5,505,50594,Pekan Senawang,Seremban,Negeri Sembilan
+903,5,505,50595,Pekan Seremban Jaya,Seremban,Negeri Sembilan
+904,5,506,50601,Mukim Ayer Kuning,Tampin,Negeri Sembilan
+905,5,506,50602,Mukim Gemas,Tampin,Negeri Sembilan
+906,5,506,50603,Mukim Gemencheh,Tampin,Negeri Sembilan
+907,5,506,50604,Mukim Keru,Tampin,Negeri Sembilan
+908,5,506,50605,Mukim Repah,Tampin,Negeri Sembilan
+909,5,506,50606,Mukim Tampin Tengah,Tampin,Negeri Sembilan
+91,1,108,10801,Bekok,Segamat,Johor
+910,5,506,50607,Mukim Tebong,Tampin,Negeri Sembilan
+911,5,506,50640,Bandar Gemas,Tampin,Negeri Sembilan
+912,5,506,50641,Bandar Tampin,Tampin,Negeri Sembilan
+913,5,506,50670,Pekan Ayer Kuning Selatan,Tampin,Negeri Sembilan
+914,5,506,50671,Pekan Batang Melaka,Tampin,Negeri Sembilan
+915,5,506,50672,Pekan Gemencheh Bahru,Tampin,Negeri Sembilan
+916,5,506,50673,Pekan Repah,Tampin,Negeri Sembilan
+917,5,506,50674,Pekan Tampin Tengah,Tampin,Negeri Sembilan
+918,5,506,50675,Pekan Ayer Kuning,Tampin,Negeri Sembilan
+919,5,506,50676,Pekan Pasir Besar,Tampin,Negeri Sembilan
+92,1,108,10802,Buloh Kasap,Segamat,Johor
+920,5,506,50677,Pekan Repah Permai,Tampin,Negeri Sembilan
+921,5,506,50678,Pekan Repah Jaya,Tampin,Negeri Sembilan
+922,5,507,50701,Mukim Jelei,Jempol,Negeri Sembilan
+923,5,507,50702,Mukim Kuala Jempol,Jempol,Negeri Sembilan
+924,5,507,50703,Mukim Rompin,Jempol,Negeri Sembilan
+925,5,507,50704,Mukim Serting Ilir,Jempol,Negeri Sembilan
+926,5,507,50705,Mukim Serting Ulu,Jempol,Negeri Sembilan
+927,5,507,50740,Bandar Serting,Jempol,Negeri Sembilan
+928,5,507,50741,Bandar Bahau,Jempol,Negeri Sembilan
+929,5,507,50742,Bandar Seri Jempol,Jempol,Negeri Sembilan
+93,1,108,10803,Chaah,Segamat,Johor
+930,5,507,50770,Pekan Bahau,Jempol,Negeri Sembilan
+931,5,507,50771,Pekan Batu Kikir,Jempol,Negeri Sembilan
+932,5,507,50772,Pekan Kuala Jelei,Jempol,Negeri Sembilan
+933,5,507,50773,Pekan Rompin,Jempol,Negeri Sembilan
+934,5,507,50774,Pekan Ladang Geddes,Jempol,Negeri Sembilan
+935,5,507,50775,Pekan Mahsan,Jempol,Negeri Sembilan
+936,5,507,50776,Pekan Serting Tengah,Jempol,Negeri Sembilan
+937,6,601,60101,Bentong,Bentong,Pahang
+938,6,601,60102,Sabai,Bentong,Pahang
+939,6,601,60103,Pelangai,Bentong,Pahang
+94,1,108,10804,Gemas,Segamat,Johor
+940,6,601,60140,Bandar Bentong,Bentong,Pahang
+941,6,601,60141,Bandar Karak,Bentong,Pahang
+942,6,601,60171,Pekan Telemung,Bentong,Pahang
+943,6,602,60201,Hulu Telom,Cameron Highlands,Pahang
+944,6,602,60202,Ringlet,Cameron Highlands,Pahang
+945,6,602,60203,Tanah Rata,Cameron Highlands,Pahang
+946,6,602,60240,Bandar Tanah Rata,Cameron Highlands,Pahang
+947,6,602,60270,Pekan Berincang,Cameron Highlands,Pahang
+948,6,602,60271,Pekan Lubuk Tamang,Cameron Highlands,Pahang
+949,6,602,60272,Pekan Ringlet,Cameron Highlands,Pahang
+95,1,108,10805,Gemereh,Segamat,Johor
+950,6,603,60301,Burau,Jerantut,Pahang
+951,6,603,60302,Hulu Cheka,Jerantut,Pahang
+952,6,603,60303,Hulu Tembeling,Jerantut,Pahang
+953,6,603,60304,Kelola,Jerantut,Pahang
+954,6,603,60305,Kuala Tembeling,Jerantut,Pahang
+955,6,603,60306,Pedah,Jerantut,Pahang
+956,6,603,60307,Pulau Tawar,Jerantut,Pahang
+957,6,603,60308,Tebing Tinggi,Jerantut,Pahang
+958,6,603,60309,Teh,Jerantut,Pahang
+959,6,603,60310,Tembeling,Jerantut,Pahang
+96,1,108,10806,Jabi,Segamat,Johor
+960,6,603,60340,Bandar Jerantut,Jerantut,Pahang
+961,6,603,60370,Pekan Kuala Tembeling,Jerantut,Pahang
+962,6,603,60371,Pekan Jeransang,Jerantut,Pahang
+963,6,604,60401,Beserah,Kuantan,Pahang
+964,6,604,60402,Hulu Kuantan,Kuantan,Pahang
+965,6,604,60403,Hulu Lepar,Kuantan,Pahang
+966,6,604,60404,Kuala Kuantan,Kuantan,Pahang
+967,6,604,60405,Penor,Kuantan,Pahang
+968,6,604,60406,Sungai Karang,Kuantan,Pahang
+969,6,604,60440,Bandar Gambang,Kuantan,Pahang
+97,1,108,10807,Jementah,Segamat,Johor
+970,6,604,60441,Bandar Kuantan,Kuantan,Pahang
+971,6,604,60470,Pekan Beserah,Kuantan,Pahang
+972,6,604,60471,Pekan Tanjung Lumpur,Kuantan,Pahang
+973,6,605,60501,Batu Yon,Lipis,Pahang
+974,6,605,60502,Budu,Lipis,Pahang
+975,6,605,60503,Cheka,Lipis,Pahang
+976,6,605,60504,Gua,Lipis,Pahang
+977,6,605,60505,Hulu Jelai,Lipis,Pahang
+978,6,605,60506,Kechau,Lipis,Pahang
+979,6,605,60507,Kuala Lipis,Lipis,Pahang
+98,1,108,10808,Labis,Segamat,Johor
+980,6,605,60508,Penjom,Lipis,Pahang
+981,6,605,60509,Tanjung Besar,Lipis,Pahang
+982,6,605,60510,Telang,Lipis,Pahang
+983,6,605,60540,Bandar Kuala Lipis,Lipis,Pahang
+984,6,605,60541,Bandar Benta,Lipis,Pahang
+985,6,605,60542,Bandar Padang Tengku,Lipis,Pahang
+986,6,605,60572,Padang Tengku,Lipis,Pahang
+987,6,605,60573,Pekan Taman Jelai,Lipis,Pahang
+988,6,605,60574,Pekan Penjom,Lipis,Pahang
+989,6,605,60575,Pekan Mela,Lipis,Pahang
+99,1,108,10809,Pogoh,Segamat,Johor
+990,6,605,60576,Pekan Kerambit,Lipis,Pahang
+991,6,605,60577,Pekan Kampung Pagar,Lipis,Pahang
+992,6,605,60578,Pekan Merapuh,Lipis,Pahang
+993,6,605,60579,Pekan Kechau Tui,Lipis,Pahang
+994,6,606,60601,Bebar,Pekan,Pahang
+995,6,606,60602,Ganchong,Pekan,Pahang
+996,6,606,60603,Kuala Pahang,Pekan,Pahang
+997,6,606,60604,Langgar,Pekan,Pahang
+998,6,606,60605,Lepar,Pekan,Pahang
+999,6,606,60606,Pahang Tua,Pekan,Pahang

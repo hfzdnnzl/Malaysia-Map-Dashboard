@@ -1,0 +1,94 @@
+OBJECTID,kod_negeri,kod_daerah,DAERAH,NEGERI
+1,1,101,Batu Pahat,Johor
+10,2,201,Kota Setar,Kedah
+12,2,203,Padang Terap,Kedah
+13,2,204,Langkawi,Kedah
+14,2,205,Kuala Muda,Kedah
+15,2,206,Yan,Kedah
+16,2,207,Sik,Kedah
+17,2,208,Baling,Kedah
+18,2,209,Kulim,Kedah
+19,2,210,Bandar Baharu,Kedah
+2,1,102,Johor Bahru,Johor
+20,2,211,Pendang,Kedah
+21,2,212,Pokok Sena,Kedah
+22,3,301,Bachok,Kelantan
+23,3,302,Kota Bharu,Kelantan
+24,3,303,Machang,Kelantan
+25,3,304,Pasir Mas,Kelantan
+26,3,305,Pasir Puteh,Kelantan
+27,3,306,Tanah Merah,Kelantan
+28,3,307,Tumpat,Kelantan
+29,3,308,Gua Musang,Kelantan
+3,1,103,Kluang,Johor
+30,3,310,Kuala Krai,Kelantan
+31,3,311,Jeli,Kelantan
+32,3,312,Kecil Lojing,Kelantan
+33,4,401,Melaka Tengah,Melaka
+34,4,402,Jasin,Melaka
+35,4,403,Alor Gajah,Melaka
+36,5,501,Jelebu,Negeri Sembilan
+37,5,502,Kuala Pilah,Negeri Sembilan
+38,5,503,Port Dickson,Negeri Sembilan
+39,5,504,Rembau,Negeri Sembilan
+4,1,104,Kota Tinggi,Johor
+40,5,505,Seremban,Negeri Sembilan
+41,5,506,Tampin,Negeri Sembilan
+42,5,507,Jempol,Negeri Sembilan
+43,6,601,Bentong,Pahang
+44,6,602,Cameron Highlands,Pahang
+45,6,603,Jerantut,Pahang
+46,6,604,Kuantan,Pahang
+47,6,605,Lipis,Pahang
+48,6,606,Pekan,Pahang
+49,6,607,Raub,Pahang
+5,1,105,Mersing,Johor
+50,6,608,Temerloh,Pahang
+51,6,609,Rompin,Pahang
+52,6,610,Maran,Pahang
+53,6,611,Bera,Pahang
+54,7,701,Seberang Perai Tengah,Pulau Pinang
+55,7,702,Seberang Perai Utara,Pulau Pinang
+56,7,703,Seberang Perai Selatan,Pulau Pinang
+57,7,704,Timor Laut,Pulau Pinang
+58,7,705,Barat Daya,Pulau Pinang
+59,8,801,Batang Padang,Perak
+6,1,106,Muar,Johor
+60,8,802,Manjung,Perak
+61,8,803,Kinta,Perak
+62,8,804,Kerian,Perak
+63,8,805,Kuala Kangsar,Perak
+64,8,806,Larut & Matang,Perak
+65,8,807,Hilir Perak,Perak
+66,8,808,Hulu Perak,Perak
+67,8,809,Selama,Perak
+68,8,810,Perak Tengah,Perak
+69,8,811,Kampar,Perak
+7,1,107,Pontian,Johor
+70,8,812,Muallim,Perak
+71,8,813,Bagan Datoh,Perak
+72,9,900,Tiada Daerah,Perlis
+73,10,1001,Klang,Selangor
+74,10,1002,Kuala Langat,Selangor
+75,10,1004,Kuala Selangor,Selangor
+76,10,1005,Sabak Bernam,Selangor
+77,10,1006,Ulu Langat,Selangor
+78,10,1007,Ulu Selangor,Selangor
+79,10,1008,Petaling,Selangor
+8,1,121,Kulai,Johor
+80,10,1009,Gombak,Selangor
+81,10,1010,Sepang,Selangor
+82,11,1101,Besut,Terengganu
+83,11,1102,Dungun,Terengganu
+84,11,1103,Kemaman,Terengganu
+85,11,1104,Kuala Terengganu,Terengganu
+86,11,1105,Hulu Terengganu,Terengganu
+87,11,1106,Marang,Terengganu
+88,11,1107,Setiu,Terengganu
+89,11,1108,Kuala Nerus,Terengganu
+9,1,122,Tangkak,Johor
+90,14,1400,Kuala Lumpur,W.P. Kuala Lumpur
+91,15,1500,Tiada Daerah,W.P. Labuan
+92,16,1601,Putrajaya,W.P. Putrajaya
+93,2,202,Kubang Pasu,Kedah
+94,1,108,Segamat,Johor
